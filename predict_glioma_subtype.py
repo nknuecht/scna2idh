@@ -79,8 +79,8 @@ def predict(args):
                                                            2:'Oligodendroglioma'})
 
     # assign low confidence predictions with a "Uncertain" label
-    print('Retaining predictions with confidence over'+str(threshold)+' . .  . ')
-    low_confidence_preds_idxs = prediction_df.loc[prediction_df['Score' < float(threshold)]].index
+    print('Retaining predictions with confidence over '+str(threshold)+' . .  . ')
+    low_confidence_preds_idxs = prediction_df.loc[prediction_df['Score'] < threshold].index
     prediction_df.loc[low_confidence_preds_idxs, 'Pred'] = 'Uncertain'
 
     if outfile:
