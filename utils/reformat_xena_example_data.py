@@ -16,6 +16,6 @@ scna_df = pd.read_csv(scna_path, sep='\t', index_col=0).T
 
 # save SCNA matrix as csv file of [patients x genes]
 outfile = './data/Xena_GBMLGG_GISTIC_Scores.csv'
-print('\nSaving reformatted Xena data of')
+print('\nSaving reformatted Xena data to')
 print(' -> to', os.path.abspath(outfile))
 scna_df.to_csv(outfile)
