@@ -8,6 +8,7 @@ __maintainer__ = "Nicholas Nuechterlein"
 from argparse import ArgumentParser
 
 import pandas as pd
+import numpy as np
 
 from pycaret.classification import load_model, predict_model
 
