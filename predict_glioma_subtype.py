@@ -20,7 +20,8 @@ def predict(args):
     threshold = args.threshold
 
     # load scna data and gene location data
-    scna_df = pd.read_csv(scna_filepath, index_col=0)
+    print('Loading SCNA data . .  . ')
+    scna_df = pd.read_csv(scna_path, index_col=0)
     gene_loc_df = pd.read_csv(gene_loc_path, index_col=0)
 
     # exclude sex chromosomes and small chromosome arms (21p, 22p)
@@ -47,6 +48,7 @@ def predict(args):
 
     ## Stage 1 ##
     # screen for 1p/19q-codeletion (oligodendroglioma prediction)
+    print('Predicting 1p/19q-codeletions . .  . ')
     thresh = 0.85
     oligo_pred_idxs = chrarm_scna_loss_df.loc[(chrarm_scna_loss_df['1p'] < -thresh)
                                               & (chrarm_scna_loss_df['1q'] >= -thresh)
@@ -66,6 +68,7 @@ def predict(args):
     astro_chrarm_scna_df = chrarm_scna_df.drop(index=oligo_pred_idxs)
 
     # predict IDH-mutations
+    print('Predicting IDH-mutations for samples without predicted 1p/19q-codeletions . .  . ')
     astro_pred_df = predict_model(idh_classifier, data = astro_chrarm_scna_df)
     astro_pred_df = astro_pred_df[['Score', 'Label']].rename(columns={'Label':'Pred'})
 
