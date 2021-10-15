@@ -24,8 +24,8 @@ This repository gives a system that classifies adult diffuse glioma as 1p/19q-co
 
      | Name          | Flag | Description                                                  |
      | ------------- | ---- | ------------------------------------------------------------ |
-     | scna_path     | -s   | Filepath to a csv file whose indices are sample names, columns are genes, <br />and its values are thresholded GISTIC 2.0 scores. |
-     | gene_loc_path | -g   | Filepath to a csv file whose indices are genes. This csv file much have a column <br />labeled "chr_arm" that lists the chromosome arm associated with each gene. |
+     | scna_path     | -s   | Filepath to a csv file whose indices are sample names, columns are genes, and its values are thresholded GISTIC 2.0 scores. |
+     | gene_loc_path | -g   | Filepath to a csv file whose indices are genes. This csv file much have a column labeled "chr_arm" that lists the chromosome arm associated with each gene. |
 
      The SCNA dataframe must contain genes from all of the following chromosome arms: 1p, 1q, 2p, 2q, 3p, 3q, 4p, 4q, 5p, 5q, 6p, 6q, 7p, 7q, 8p, 8q, 9p, 9q, 10p, 10q, 11p, 11q, 12p, 12q, 13q, 14q, 15q, 16p, 16q, 17p, 17q, 18p, 18q, 19p, 19q, 20p, 20q, 21q, 22q.
 
