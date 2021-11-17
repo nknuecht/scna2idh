@@ -1,0 +1,2553 @@
+,1p/19q-Codeletion Prediction,Dataset
+TCGA-CS-5390,1p/19q-Codeletion,TCGA Training
+TCGA-CS-5394,1p/19q-Codeletion,TCGA Training
+TCGA-CS-5396,1p/19q-Codeletion,TCGA Training
+TCGA-CS-6668,1p/19q-Codeletion,TCGA Training
+TCGA-CS-6670,1p/19q-Codeletion,TCGA Training
+TCGA-DB-5274,1p/19q-Codeletion,TCGA Training
+TCGA-DB-5278,1p/19q-Codeletion,TCGA Training
+TCGA-DB-5279,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XA,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XG,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XH,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64L,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64P,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64Q,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64R,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64U,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64V,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64W,1p/19q-Codeletion,TCGA Training
+TCGA-DB-A75K,1p/19q-Codeletion,TCGA Training
+TCGA-DH-5141,1p/19q-Codeletion,TCGA Training
+TCGA-DH-5144,1p/19q-Codeletion,TCGA Training
+TCGA-DH-A669,1p/19q-Codeletion,TCGA Training
+TCGA-DH-A66F,1p/19q-Codeletion,TCGA Training
+TCGA-DH-A7UR,1p/19q-Codeletion,TCGA Training
+TCGA-DH-A7US,1p/19q-Codeletion,TCGA Training
+TCGA-DU-5849,1p/19q-Codeletion,TCGA Training
+TCGA-DU-5870,1p/19q-Codeletion,TCGA Training
+TCGA-DU-5874,1p/19q-Codeletion,TCGA Training
+TCGA-DU-6393,1p/19q-Codeletion,TCGA Training
+TCGA-DU-6394,1p/19q-Codeletion,TCGA Training
+TCGA-DU-6397,1p/19q-Codeletion,TCGA Training
+TCGA-DU-6400,1p/19q-Codeletion,TCGA Training
+TCGA-DU-6410,1p/19q-Codeletion,TCGA Training
+TCGA-DU-7009,1p/19q-Codeletion,TCGA Training
+TCGA-DU-7018,1p/19q-Codeletion,TCGA Training
+TCGA-DU-7294,1p/19q-Codeletion,TCGA Training
+TCGA-DU-7300,1p/19q-Codeletion,TCGA Training
+TCGA-DU-7302,1p/19q-Codeletion,TCGA Training
+TCGA-DU-8164,1p/19q-Codeletion,TCGA Training
+TCGA-DU-8168,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A6S2,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A6S3,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A6S6,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A6S8,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A76R,1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7T6,1p/19q-Codeletion,TCGA Training
+TCGA-E1-5311,1p/19q-Codeletion,TCGA Training
+TCGA-E1-5318,1p/19q-Codeletion,TCGA Training
+TCGA-E1-5319,1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YO,1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YS,1p/19q-Codeletion,TCGA Training
+TCGA-EZ-7264,1p/19q-Codeletion,TCGA Training
+TCGA-F6-A8O3,1p/19q-Codeletion,TCGA Training
+TCGA-FG-5962,1p/19q-Codeletion,TCGA Training
+TCGA-FG-5964,1p/19q-Codeletion,TCGA Training
+TCGA-FG-7634,1p/19q-Codeletion,TCGA Training
+TCGA-FG-7638,1p/19q-Codeletion,TCGA Training
+TCGA-FG-7641,1p/19q-Codeletion,TCGA Training
+TCGA-FG-8186,1p/19q-Codeletion,TCGA Training
+TCGA-FG-8187,1p/19q-Codeletion,TCGA Training
+TCGA-FG-A60K,1p/19q-Codeletion,TCGA Training
+TCGA-FG-A6IZ,1p/19q-Codeletion,TCGA Training
+TCGA-FG-A6J1,1p/19q-Codeletion,TCGA Training
+TCGA-FG-A710,1p/19q-Codeletion,TCGA Training
+TCGA-FG-A713,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7467,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7468,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7471,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7480,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7481,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7605,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7607,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7608,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7616,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7620,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7677,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7681,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7687,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7692,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7694,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7695,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7856,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7874,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7875,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7877,1p/19q-Codeletion,TCGA Training
+TCGA-HT-7881,1p/19q-Codeletion,TCGA Training
+TCGA-HT-8010,1p/19q-Codeletion,TCGA Training
+TCGA-HT-8012,1p/19q-Codeletion,TCGA Training
+TCGA-HT-8105,1p/19q-Codeletion,TCGA Training
+TCGA-HT-8109,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A4DV,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5R9,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A615,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A619,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A74K,1p/19q-Codeletion,TCGA Training
+TCGA-HT-A74L,1p/19q-Codeletion,TCGA Training
+TCGA-HW-7486,1p/19q-Codeletion,TCGA Training
+TCGA-HW-7487,1p/19q-Codeletion,TCGA Training
+TCGA-HW-7491,1p/19q-Codeletion,TCGA Training
+TCGA-HW-7495,1p/19q-Codeletion,TCGA Training
+TCGA-HW-8322,1p/19q-Codeletion,TCGA Training
+TCGA-HW-A5KJ,1p/19q-Codeletion,TCGA Training
+TCGA-IK-8125,1p/19q-Codeletion,TCGA Training
+TCGA-KT-A74X,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5ET,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5EX,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5F0,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A72Z,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A730,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A737,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A77W,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A77X,1p/19q-Codeletion,TCGA Training
+TCGA-P5-A781,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A65R,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A65V,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A65X,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A65Z,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CU,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CY,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CZ,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6X4,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6X5,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6X8,1p/19q-Codeletion,TCGA Training
+TCGA-QH-A86X,1p/19q-Codeletion,TCGA Training
+TCGA-R8-A6MK,1p/19q-Codeletion,TCGA Training
+TCGA-R8-A6ML,1p/19q-Codeletion,TCGA Training
+TCGA-R8-A6MO,1p/19q-Codeletion,TCGA Training
+TCGA-R8-A73M,1p/19q-Codeletion,TCGA Training
+TCGA-RY-A83X,1p/19q-Codeletion,TCGA Training
+TCGA-RY-A83Y,1p/19q-Codeletion,TCGA Training
+TCGA-RY-A840,1p/19q-Codeletion,TCGA Training
+TCGA-RY-A847,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TW,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TX,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TY,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U2,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U5,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6UB,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WD,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WE,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WH,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WL,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WN,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WP,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7IQ,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7IY,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7J1,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7J2,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7J3,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7QY,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7QZ,1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R1,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A7C5,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84G,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84M,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84O,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84R,1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84S,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RG,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RI,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RN,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RO,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RQ,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RS,1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RU,1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8CA,1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8CB,1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8CE,1p/19q-Codeletion,TCGA Training
+TCGA-VV-A829,1p/19q-Codeletion,TCGA Training
+TCGA-VW-A7QS,1p/19q-Codeletion,TCGA Training
+TCGA-W9-A837,1p/19q-Codeletion,TCGA Training
+TCGA-02-0003,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-0033,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-0047,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-0055,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-2470,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-2483,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-2485,No 1p/19q-Codeletion,TCGA Training
+TCGA-02-2486,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0119,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0122,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0124,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0125,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0126,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0128,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0129,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0130,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0132,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0137,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0139,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0140,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0141,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0142,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0145,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0151,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0152,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0154,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0155,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0157,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0158,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0165,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0166,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0168,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0169,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0171,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0173,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0174,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0184,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0185,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0187,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0188,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0189,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0190,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0192,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0195,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0209,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0210,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0211,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0213,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0214,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0216,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0219,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0221,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0237,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0238,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0240,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0241,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0644,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0645,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0646,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0648,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0649,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0650,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0686,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0743,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0744,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0745,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0747,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0749,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0750,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0875,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0876,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0877,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0878,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0879,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0881,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0882,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-0939,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-1804,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-1806,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2557,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2558,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2559,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2561,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2562,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2563,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2564,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2565,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2567,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2569,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-2570,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5408,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5410,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5411,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5412,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5413,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5414,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5415,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5416,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5418,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5856,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5858,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-5859,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6388,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6389,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6390,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6391,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6693,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6694,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6695,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6697,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6698,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6699,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6700,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-6701,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A5U0,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A5U1,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A6S0,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A6S1,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A7TK,No 1p/19q-Codeletion,TCGA Training
+TCGA-06-A7TL,No 1p/19q-Codeletion,TCGA Training
+TCGA-08-0386,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0615,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0616,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0618,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0619,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0688,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0692,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-0821,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-3649,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-3650,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-3652,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-3653,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-5295,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-5299,No 1p/19q-Codeletion,TCGA Training
+TCGA-12-5301,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0736,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0740,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0781,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0786,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0787,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0789,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0790,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0813,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0817,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0862,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-0871,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1034,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1043,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1395,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1450,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1456,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1823,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1825,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-1829,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-2554,No 1p/19q-Codeletion,TCGA Training
+TCGA-14-4157,No 1p/19q-Codeletion,TCGA Training
+TCGA-15-0742,No 1p/19q-Codeletion,TCGA Training
+TCGA-16-0846,No 1p/19q-Codeletion,TCGA Training
+TCGA-16-0848,No 1p/19q-Codeletion,TCGA Training
+TCGA-16-0861,No 1p/19q-Codeletion,TCGA Training
+TCGA-16-1045,No 1p/19q-Codeletion,TCGA Training
+TCGA-16-1048,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-1390,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-1787,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2619,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2620,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2623,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2624,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2625,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2629,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-2631,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-4065,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5947,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5950,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5951,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5952,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5953,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5954,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5955,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5956,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5958,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5959,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-5960,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-A60I,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-A6J4,No 1p/19q-Codeletion,TCGA Training
+TCGA-19-A6J5,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-1439,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-1442,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5132,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5133,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5134,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5135,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5136,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-5139,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-6173,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-6174,No 1p/19q-Codeletion,TCGA Training
+TCGA-26-A7UX,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1830,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1831,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1832,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1833,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1834,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1835,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1836,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1837,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-1838,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2518,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2519,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2521,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2523,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2524,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2526,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2527,No 1p/19q-Codeletion,TCGA Training
+TCGA-27-2528,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-1747,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-1753,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2501,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2502,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2509,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2510,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2513,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-2514,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5204,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5207,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5208,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5209,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5211,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5213,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5214,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5215,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5216,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5218,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5219,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-5220,No 1p/19q-Codeletion,TCGA Training
+TCGA-28-6450,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1970,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1977,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1979,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1980,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1982,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1986,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-1991,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2491,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2494,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2495,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2615,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2616,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2632,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2634,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-2638,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-4208,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-4210,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-4211,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-4213,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-4719,No 1p/19q-Codeletion,TCGA Training
+TCGA-32-5222,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-2571,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-2572,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-2573,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-2575,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-3392,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-3393,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-3915,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-4097,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-5651,No 1p/19q-Codeletion,TCGA Training
+TCGA-41-6646,No 1p/19q-Codeletion,TCGA Training
+TCGA-4W-AA9R,No 1p/19q-Codeletion,TCGA Training
+TCGA-4W-AA9S,No 1p/19q-Codeletion,TCGA Training
+TCGA-4W-AA9T,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6573,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6575,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6577,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6578,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6581,No 1p/19q-Codeletion,TCGA Training
+TCGA-74-6584,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4925,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4926,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4928,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4929,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4931,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4934,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-4935,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6191,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6192,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6193,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6280,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6282,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6283,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6285,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6286,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6656,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6657,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6660,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6661,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6662,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6663,No 1p/19q-Codeletion,TCGA Training
+TCGA-76-6664,No 1p/19q-Codeletion,TCGA Training
+TCGA-81-5910,No 1p/19q-Codeletion,TCGA Training
+TCGA-81-5911,No 1p/19q-Codeletion,TCGA Training
+TCGA-87-5896,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-4938,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-4941,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-4942,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-4943,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-4944,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-5393,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-5395,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-5397,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6186,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6188,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6290,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6665,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6666,No 1p/19q-Codeletion,TCGA Training
+TCGA-CS-6667,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5270,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5273,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5275,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5276,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5277,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5280,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-5281,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4X9,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XB,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XC,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XD,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XE,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A4XF,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64O,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64S,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A64X,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A75L,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A75M,No 1p/19q-Codeletion,TCGA Training
+TCGA-DB-A75O,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-5142,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-5143,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A66B,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A66D,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A66G,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A7UT,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A7UU,No 1p/19q-Codeletion,TCGA Training
+TCGA-DH-A7UV,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5847,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5851,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5852,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5853,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5854,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5855,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5871,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-5872,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6395,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6396,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6399,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6401,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6402,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6403,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6405,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6406,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6407,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6408,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-6542,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7006,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7007,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7008,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7010,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7011,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7012,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7013,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7015,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7019,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7290,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7292,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7298,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7299,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7301,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7304,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7306,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-7309,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8158,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8161,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8162,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8163,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8165,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8166,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-8167,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TP,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TR,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TS,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TT,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TU,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TW,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A5TY,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A6S7,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A76K,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A76L,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A76O,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7T8,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7TA,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7TC,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7TD,No 1p/19q-Codeletion,TCGA Training
+TCGA-DU-A7TJ,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5302,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5303,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5304,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5305,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5307,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-5322,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YD,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YE,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YH,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YI,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YJ,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YK,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YL,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YM,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YN,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YQ,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YU,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YV,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7YW,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7Z2,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7Z3,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7Z4,No 1p/19q-Codeletion,TCGA Training
+TCGA-E1-A7Z6,No 1p/19q-Codeletion,TCGA Training
+TCGA-F6-A8O4,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-5965,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-6688,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-6689,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-6690,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-6691,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-6692,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-7636,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-7643,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-8182,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-8185,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-8188,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-8191,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A4MT,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A4MU,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A4MW,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A4MX,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A4MY,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A60J,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A60L,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A6J3,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A70Y,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A70Z,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A711,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A87N,No 1p/19q-Codeletion,TCGA Training
+TCGA-FG-A87Q,No 1p/19q-Codeletion,TCGA Training
+TCGA-FN-7833,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7470,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7472,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7473,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7474,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7475,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7476,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7477,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7478,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7479,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7482,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7483,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7485,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7601,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7602,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7603,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7604,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7606,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7609,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7610,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7611,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7676,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7684,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7686,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7688,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7689,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7690,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7693,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7854,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7855,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7858,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7860,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7873,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7879,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7880,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7882,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7884,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-7902,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8011,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8013,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8018,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8104,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8106,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8108,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8110,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8111,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8114,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8563,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-8564,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A4DS,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5R5,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5R7,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5RA,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5RB,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A5RC,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A614,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A616,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A617,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A618,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A61B,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A61C,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A74H,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A74J,No 1p/19q-Codeletion,TCGA Training
+TCGA-HT-A74O,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-7489,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-7490,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-8319,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-8320,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-8321,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-A5KK,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-A5KL,No 1p/19q-Codeletion,TCGA Training
+TCGA-HW-A5KM,No 1p/19q-Codeletion,TCGA Training
+TCGA-IK-7675,No 1p/19q-Codeletion,TCGA Training
+TCGA-KT-A7W1,No 1p/19q-Codeletion,TCGA Training
+TCGA-OX-A56R,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5EU,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5EV,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5EW,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5EZ,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5F1,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5F2,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A5F4,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A72U,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A72W,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A72X,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A731,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A733,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A735,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A736,No 1p/19q-Codeletion,TCGA Training
+TCGA-P5-A780,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A65S,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CS,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CV,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CW,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6CX,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6X3,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6X9,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6XA,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A6XC,No 1p/19q-Codeletion,TCGA Training
+TCGA-QH-A870,No 1p/19q-Codeletion,TCGA Training
+TCGA-R8-A6YH,No 1p/19q-Codeletion,TCGA Training
+TCGA-RR-A6KA,No 1p/19q-Codeletion,TCGA Training
+TCGA-RR-A6KB,No 1p/19q-Codeletion,TCGA Training
+TCGA-RR-A6KC,No 1p/19q-Codeletion,TCGA Training
+TCGA-RY-A83Z,No 1p/19q-Codeletion,TCGA Training
+TCGA-RY-A843,No 1p/19q-Codeletion,TCGA Training
+TCGA-RY-A845,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TS,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TU,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TV,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6TZ,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U0,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U1,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U6,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U8,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6U9,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WG,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WM,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WO,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A6WQ,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7IS,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7IX,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7IZ,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7J0,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7QW,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7QX,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R2,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R3,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R4,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R7,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A7R8,No 1p/19q-Codeletion,TCGA Training
+TCGA-S9-A89Z,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A7C3,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A7C4,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A7CA,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A7CF,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84B,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84F,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84H,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84I,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84L,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84Q,No 1p/19q-Codeletion,TCGA Training
+TCGA-TM-A84T,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RF,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RH,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RJ,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RK,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RM,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RP,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RR,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RV,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A7RW,No 1p/19q-Codeletion,TCGA Training
+TCGA-TQ-A8XE,No 1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8C8,No 1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8CF,No 1p/19q-Codeletion,TCGA Training
+TCGA-VM-A8CH,No 1p/19q-Codeletion,TCGA Training
+TCGA-VV-A86M,No 1p/19q-Codeletion,TCGA Training
+TCGA-VW-A8FI,No 1p/19q-Codeletion,TCGA Training
+TCGA-WH-A86K,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A858,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A859,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A85A,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A85B,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A85C,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A85D,No 1p/19q-Codeletion,TCGA Training
+TCGA-WY-A85E,No 1p/19q-Codeletion,TCGA Training
+glioma_mskcc_2019_417,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_612,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_559,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_600,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_562,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_616,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_610,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_565,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_582,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_607,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_609,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_564,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_563,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_621,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_599,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_619,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_618,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_615,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_622,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_623,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_557,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_591,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_617,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_624,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_577,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_626,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_574,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_625,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_575,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_578,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_576,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_598,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_627,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_592,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_605,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_708,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_699,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_700,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_720,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_698,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_756,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_715,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_724,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_702,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_730,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_737,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_731,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_768,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_771,1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_154,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_366,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_109,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_304,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_346,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_367,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_143,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_106,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_176,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_169,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_457,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_102,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_175,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_351,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_248,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_151,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_177,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_50,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_354,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_179,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_236,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_100,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_233,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_325,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_232,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_168,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_15,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_352,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_370,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_178,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_13,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_512,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_266,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_12,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_51,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_680,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_181,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_180,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_303,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_198,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_501,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_52,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_99,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_14,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_401,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_158,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_368,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_92,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_420,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_357,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_17,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_490,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_107,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_166,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_25,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_245,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_22,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_103,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_219,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_161,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_404,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_269,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_358,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_16,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_270,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_372,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_347,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_26,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_155,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_55,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_271,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_265,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_28,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_249,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_473,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_54,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_56,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_246,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_373,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_521,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_23,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_316,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_505,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_33,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_477,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_34,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_314,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_53,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_371,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_29,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_4,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_449,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_116,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_21,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_391,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_204,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_244,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_327,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_268,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_196,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_113,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_18,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_513,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_183,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_148,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_182,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_58,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_507,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_57,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_425,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_456,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_60,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_514,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_39,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_392,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_240,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_313,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_275,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_149,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_37,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_356,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_62,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_463,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_230,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_272,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_418,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_20,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_59,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_376,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_350,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_375,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_349,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_108,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_515,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_117,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_63,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_445,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_276,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_35,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_164,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_402,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_157,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_475,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_36,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_32,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_30,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_315,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_355,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_452,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_66,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_119,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_61,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_241,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_267,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_159,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_163,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_430,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_359,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_11,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_274,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_38,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_46,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_27,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_380,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_278,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_65,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_516,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_620,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_67,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_242,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_369,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_381,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_379,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_64,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_187,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_273,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_377,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_184,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_24,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_31,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_19,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_7,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_190,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_68,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_383,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_9,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_186,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_43,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_69,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_188,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_45,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_382,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_70,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_277,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_42,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_71,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_189,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_360,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_75,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_74,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_374,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_279,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_218,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_118,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_76,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_393,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_72,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_185,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_797,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_191,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_378,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_73,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_474,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_77,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_510,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_803,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_802,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_800,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_804,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_798,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_799,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_810,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_743,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_907,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_44,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_926,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_741,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_809,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_739,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_781,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_811,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_740,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_791,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_820,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_807,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_776,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_818,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_821,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_745,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_814,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_815,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_824,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_816,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_747,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_825,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_826,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_280,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_828,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_827,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_910,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_835,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_795,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_744,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_837,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_793,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_836,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_839,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_751,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_844,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_832,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_806,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_701,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_794,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_801,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_805,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_842,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_843,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_845,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_790,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_718,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_834,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_777,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_847,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_785,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_716,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_228,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_848,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_750,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_732,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_792,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_735,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_786,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_849,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_754,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_823,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_833,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_789,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_838,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_759,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_851,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_822,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_723,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_846,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_913,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_753,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_903,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_856,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_760,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_912,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_853,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_852,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_902,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_859,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_830,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_908,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_909,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_717,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_812,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_911,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_742,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_726,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_861,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_840,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_787,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_857,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_854,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_829,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_775,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_734,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_764,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_863,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_865,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_916,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_914,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_762,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_752,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_860,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_727,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_866,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_871,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_869,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_766,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_917,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_874,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_878,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_855,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_879,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_880,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_703,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_883,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_875,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_767,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_876,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_870,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_780,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_884,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_925,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_888,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_882,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_808,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_877,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_885,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_887,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_769,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_891,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_733,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_748,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_873,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_772,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_918,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_831,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_893,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_889,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_892,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_920,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_783,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_872,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_890,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_895,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_886,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_894,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_841,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_864,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_773,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_881,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_897,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_770,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_868,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_858,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_755,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_922,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_896,No 1p/19q-Codeletion,Jonsson et al.
+glioma_mskcc_2019_774,No 1p/19q-Codeletion,Jonsson et al.
+8622007067_R03C02,1p/19q-Codeletion,Capper et al.
+9968646164_R04C02,1p/19q-Codeletion,Capper et al.
+3999834003_R06C01,1p/19q-Codeletion,Capper et al.
+9373551039_R01C01,1p/19q-Codeletion,Capper et al.
+9534104010_R03C02,1p/19q-Codeletion,Capper et al.
+9969477123_R03C01,1p/19q-Codeletion,Capper et al.
+9420867051_R05C02,1p/19q-Codeletion,Capper et al.
+9968646113_R02C02,1p/19q-Codeletion,Capper et al.
+9379082039_R03C01,1p/19q-Codeletion,Capper et al.
+9379086163_R04C01,1p/19q-Codeletion,Capper et al.
+9829119119_R01C01,1p/19q-Codeletion,Capper et al.
+9406922108_R06C01,1p/19q-Codeletion,Capper et al.
+9379086138_R06C01,1p/19q-Codeletion,Capper et al.
+9379086164_R06C02,1p/19q-Codeletion,Capper et al.
+9968646163_R06C02,1p/19q-Codeletion,Capper et al.
+9855358018_R02C01,1p/19q-Codeletion,Capper et al.
+9379086163_R05C01,1p/19q-Codeletion,Capper et al.
+9969477122_R02C01,1p/19q-Codeletion,Capper et al.
+9769100024_R02C02,1p/19q-Codeletion,Capper et al.
+8622007084_R04C01,1p/19q-Codeletion,Capper et al.
+9968646165_R05C02,1p/19q-Codeletion,Capper et al.
+9379086138_R04C01,1p/19q-Codeletion,Capper et al.
+9379086163_R03C02,1p/19q-Codeletion,Capper et al.
+9406922107_R02C01,1p/19q-Codeletion,Capper et al.
+9969477014_R01C02,1p/19q-Codeletion,Capper et al.
+8622007130_R01C02,1p/19q-Codeletion,Capper et al.
+9305651060_R05C02,1p/19q-Codeletion,Capper et al.
+9878820113_R06C02,1p/19q-Codeletion,Capper et al.
+9221197132_R03C01,1p/19q-Codeletion,Capper et al.
+9379086167_R02C02,1p/19q-Codeletion,Capper et al.
+9406922107_R06C02,1p/19q-Codeletion,Capper et al.
+9968646113_R06C01,1p/19q-Codeletion,Capper et al.
+9379086138_R06C02,1p/19q-Codeletion,Capper et al.
+9379086166_R06C02,1p/19q-Codeletion,Capper et al.
+8622007130_R06C01,1p/19q-Codeletion,Capper et al.
+9968646164_R03C01,1p/19q-Codeletion,Capper et al.
+10006823141_R02C02,1p/19q-Codeletion,Capper et al.
+9379086163_R05C02,1p/19q-Codeletion,Capper et al.
+8622007083_R03C01,1p/19q-Codeletion,Capper et al.
+9969477064_R02C02,1p/19q-Codeletion,Capper et al.
+10006823141_R01C01,1p/19q-Codeletion,Capper et al.
+10006823155_R02C02,1p/19q-Codeletion,Capper et al.
+9878820021_R05C02,1p/19q-Codeletion,Capper et al.
+9407201028_R04C01,1p/19q-Codeletion,Capper et al.
+9878820107_R06C01,1p/19q-Codeletion,Capper et al.
+9741950087_R02C01,1p/19q-Codeletion,Capper et al.
+9373551042_R06C02,1p/19q-Codeletion,Capper et al.
+9533774023_R01C02,1p/19q-Codeletion,Capper et al.
+3998909013_R05C01,1p/19q-Codeletion,Capper et al.
+9878827225_R02C02,1p/19q-Codeletion,Capper et al.
+9379086155_R02C02,1p/19q-Codeletion,Capper et al.
+9855358001_R03C01,1p/19q-Codeletion,Capper et al.
+9855358026_R03C02,1p/19q-Codeletion,Capper et al.
+9878820068_R03C01,1p/19q-Codeletion,Capper et al.
+9444375037_R01C02,1p/19q-Codeletion,Capper et al.
+9406922161_R02C01,1p/19q-Codeletion,Capper et al.
+9741950085_R01C01,1p/19q-Codeletion,Capper et al.
+10006823123_R05C01,1p/19q-Codeletion,Capper et al.
+9647455112_R01C02,1p/19q-Codeletion,Capper et al.
+3999875055_R04C02,1p/19q-Codeletion,Capper et al.
+9379086163_R04C02,1p/19q-Codeletion,Capper et al.
+9878820121_R02C01,1p/19q-Codeletion,Capper et al.
+9379086138_R04C02,1p/19q-Codeletion,Capper et al.
+3999543047_R01C02,1p/19q-Codeletion,Capper et al.
+9406922107_R01C01,1p/19q-Codeletion,Capper et al.
+9553932088_R02C02,1p/19q-Codeletion,Capper et al.
+9969477086_R06C02,1p/19q-Codeletion,Capper et al.
+9878820021_R06C01,1p/19q-Codeletion,Capper et al.
+9878820030_R06C01,1p/19q-Codeletion,Capper et al.
+8622007084_R01C01,1p/19q-Codeletion,Capper et al.
+9379086138_R03C01,1p/19q-Codeletion,Capper et al.
+9878820068_R06C01,1p/19q-Codeletion,Capper et al.
+9406922104_R02C01,1p/19q-Codeletion,Capper et al.
+9969477013_R06C02,1p/19q-Codeletion,Capper et al.
+8622007084_R01C02,1p/19q-Codeletion,Capper et al.
+9969477079_R01C02,1p/19q-Codeletion,Capper et al.
+9611519028_R03C02,No 1p/19q-Codeletion,Capper et al.
+3998909027_R02C01,No 1p/19q-Codeletion,Capper et al.
+9968646113_R05C02,No 1p/19q-Codeletion,Capper et al.
+9444374134_R01C01,No 1p/19q-Codeletion,Capper et al.
+8622007118_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999834094_R05C01,No 1p/19q-Codeletion,Capper et al.
+9969477123_R01C01,No 1p/19q-Codeletion,Capper et al.
+9741950087_R02C02,No 1p/19q-Codeletion,Capper et al.
+9283265153_R05C02,No 1p/19q-Codeletion,Capper et al.
+9878827229_R01C01,No 1p/19q-Codeletion,Capper et al.
+9855358018_R02C02,No 1p/19q-Codeletion,Capper et al.
+9553932002_R05C02,No 1p/19q-Codeletion,Capper et al.
+9370847061_R02C02,No 1p/19q-Codeletion,Capper et al.
+9406921070_R06C01,No 1p/19q-Codeletion,Capper et al.
+9769100008_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820107_R04C01,No 1p/19q-Codeletion,Capper et al.
+9878827225_R04C02,No 1p/19q-Codeletion,Capper et al.
+9533774084_R06C02,No 1p/19q-Codeletion,Capper et al.
+9370847061_R03C01,No 1p/19q-Codeletion,Capper et al.
+9769100024_R04C01,No 1p/19q-Codeletion,Capper et al.
+9769100024_R06C01,No 1p/19q-Codeletion,Capper et al.
+8622007091_R02C02,No 1p/19q-Codeletion,Capper et al.
+9741950087_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477079_R04C02,No 1p/19q-Codeletion,Capper et al.
+9969477108_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007097_R02C02,No 1p/19q-Codeletion,Capper et al.
+9829119119_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999547092_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999875056_R04C01,No 1p/19q-Codeletion,Capper et al.
+9020331028_R06C01,No 1p/19q-Codeletion,Capper et al.
+9855358056_R04C02,No 1p/19q-Codeletion,Capper et al.
+9878820156_R06C01,No 1p/19q-Codeletion,Capper et al.
+10003886253_R06C02,No 1p/19q-Codeletion,Capper et al.
+9878820113_R03C02,No 1p/19q-Codeletion,Capper et al.
+9878820066_R05C02,No 1p/19q-Codeletion,Capper et al.
+9855358018_R06C01,No 1p/19q-Codeletion,Capper et al.
+9855358023_R04C01,No 1p/19q-Codeletion,Capper et al.
+9968646113_R01C02,No 1p/19q-Codeletion,Capper et al.
+9968646113_R04C02,No 1p/19q-Codeletion,Capper et al.
+8622007118_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007091_R04C01,No 1p/19q-Codeletion,Capper et al.
+8622007091_R05C01,No 1p/19q-Codeletion,Capper et al.
+9407210003_R03C01,No 1p/19q-Codeletion,Capper et al.
+9534104010_R02C02,No 1p/19q-Codeletion,Capper et al.
+9855358018_R01C02,No 1p/19q-Codeletion,Capper et al.
+9969477022_R03C01,No 1p/19q-Codeletion,Capper et al.
+9221197135_R02C02,No 1p/19q-Codeletion,Capper et al.
+9769100023_R02C01,No 1p/19q-Codeletion,Capper et al.
+9221197135_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999834093_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820017_R02C02,No 1p/19q-Codeletion,Capper et al.
+3998909006_R01C02,No 1p/19q-Codeletion,Capper et al.
+9855358023_R06C02,No 1p/19q-Codeletion,Capper et al.
+9007225142_R02C01,No 1p/19q-Codeletion,Capper et al.
+9968646113_R06C02,No 1p/19q-Codeletion,Capper et al.
+9769100023_R06C02,No 1p/19q-Codeletion,Capper et al.
+3998909013_R02C01,No 1p/19q-Codeletion,Capper et al.
+8622007091_R01C01,No 1p/19q-Codeletion,Capper et al.
+9221197132_R02C02,No 1p/19q-Codeletion,Capper et al.
+9855358023_R03C02,No 1p/19q-Codeletion,Capper et al.
+9534104007_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999834093_R02C02,No 1p/19q-Codeletion,Capper et al.
+9533774023_R06C02,No 1p/19q-Codeletion,Capper et al.
+9969477100_R05C01,No 1p/19q-Codeletion,Capper et al.
+3999875055_R02C02,No 1p/19q-Codeletion,Capper et al.
+10006823130_R05C01,No 1p/19q-Codeletion,Capper et al.
+9379086138_R05C02,No 1p/19q-Codeletion,Capper et al.
+9370847061_R01C01,No 1p/19q-Codeletion,Capper et al.
+9769100024_R05C01,No 1p/19q-Codeletion,Capper et al.
+9533774021_R04C02,No 1p/19q-Codeletion,Capper et al.
+9855358031_R04C01,No 1p/19q-Codeletion,Capper et al.
+9769100024_R01C02,No 1p/19q-Codeletion,Capper et al.
+9769100024_R04C02,No 1p/19q-Codeletion,Capper et al.
+10006823130_R04C01,No 1p/19q-Codeletion,Capper et al.
+9969477101_R05C01,No 1p/19q-Codeletion,Capper et al.
+9878820066_R03C02,No 1p/19q-Codeletion,Capper et al.
+9769100024_R02C01,No 1p/19q-Codeletion,Capper et al.
+3999834021_R02C01,No 1p/19q-Codeletion,Capper et al.
+9379086164_R03C02,No 1p/19q-Codeletion,Capper et al.
+9721365197_R01C01,No 1p/19q-Codeletion,Capper et al.
+10006823122_R03C02,No 1p/19q-Codeletion,Capper et al.
+9376561062_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999875057_R04C01,No 1p/19q-Codeletion,Capper et al.
+9379086167_R05C02,No 1p/19q-Codeletion,Capper et al.
+9297949139_R01C02,No 1p/19q-Codeletion,Capper et al.
+9741779119_R01C02,No 1p/19q-Codeletion,Capper et al.
+8622007083_R06C02,No 1p/19q-Codeletion,Capper et al.
+9020331028_R01C02,No 1p/19q-Codeletion,Capper et al.
+3999547123_R04C02,No 1p/19q-Codeletion,Capper et al.
+3999547136_R02C02,No 1p/19q-Codeletion,Capper et al.
+9855358001_R06C02,No 1p/19q-Codeletion,Capper et al.
+9379086138_R05C01,No 1p/19q-Codeletion,Capper et al.
+3999875115_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007118_R04C01,No 1p/19q-Codeletion,Capper et al.
+9406922104_R03C01,No 1p/19q-Codeletion,Capper et al.
+10006823144_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999112137_R03C01,No 1p/19q-Codeletion,Capper et al.
+9406922106_R04C02,No 1p/19q-Codeletion,Capper et al.
+3999547123_R05C02,No 1p/19q-Codeletion,Capper et al.
+8622007091_R01C02,No 1p/19q-Codeletion,Capper et al.
+9379086163_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878820107_R05C02,No 1p/19q-Codeletion,Capper et al.
+9406922104_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999875055_R03C02,No 1p/19q-Codeletion,Capper et al.
+9007225086_R05C01,No 1p/19q-Codeletion,Capper et al.
+9379086167_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878820017_R03C02,No 1p/19q-Codeletion,Capper et al.
+9741950025_R06C02,No 1p/19q-Codeletion,Capper et al.
+9741950149_R05C02,No 1p/19q-Codeletion,Capper et al.
+9406922106_R01C02,No 1p/19q-Codeletion,Capper et al.
+8622007065_R02C02,No 1p/19q-Codeletion,Capper et al.
+9969477058_R05C01,No 1p/19q-Codeletion,Capper et al.
+9444374134_R02C01,No 1p/19q-Codeletion,Capper et al.
+9741950030_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999002049_R05C02,No 1p/19q-Codeletion,Capper et al.
+9741950021_R02C01,No 1p/19q-Codeletion,Capper et al.
+9741950109_R03C02,No 1p/19q-Codeletion,Capper et al.
+9406922158_R06C01,No 1p/19q-Codeletion,Capper et al.
+9406921073_R06C01,No 1p/19q-Codeletion,Capper et al.
+9407210090_R01C02,No 1p/19q-Codeletion,Capper et al.
+9444375037_R04C02,No 1p/19q-Codeletion,Capper et al.
+9007225163_R01C02,No 1p/19q-Codeletion,Capper et al.
+3999002051_R01C01,No 1p/19q-Codeletion,Capper et al.
+9534104010_R02C01,No 1p/19q-Codeletion,Capper et al.
+3999002051_R04C01,No 1p/19q-Codeletion,Capper et al.
+9741950025_R05C01,No 1p/19q-Codeletion,Capper et al.
+3999002051_R05C01,No 1p/19q-Codeletion,Capper et al.
+3999002049_R06C02,No 1p/19q-Codeletion,Capper et al.
+6164621131_R02C01,No 1p/19q-Codeletion,Capper et al.
+6164621131_R05C02,No 1p/19q-Codeletion,Capper et al.
+6164621131_R02C02,No 1p/19q-Codeletion,Capper et al.
+6164621155_R05C02,No 1p/19q-Codeletion,Capper et al.
+6164621081_R06C02,No 1p/19q-Codeletion,Capper et al.
+6969568103_R03C02,No 1p/19q-Codeletion,Capper et al.
+6969568103_R06C01,No 1p/19q-Codeletion,Capper et al.
+6969568103_R02C02,No 1p/19q-Codeletion,Capper et al.
+6969568103_R05C01,No 1p/19q-Codeletion,Capper et al.
+8622007029_R06C02,No 1p/19q-Codeletion,Capper et al.
+9878820117_R04C02,No 1p/19q-Codeletion,Capper et al.
+5684819014_R03C02,No 1p/19q-Codeletion,Capper et al.
+5684819014_R01C02,No 1p/19q-Codeletion,Capper et al.
+5911815001_R04C01,No 1p/19q-Codeletion,Capper et al.
+6929806024_R02C02,No 1p/19q-Codeletion,Capper et al.
+5684819013_R05C01,No 1p/19q-Codeletion,Capper et al.
+5911815001_R02C01,No 1p/19q-Codeletion,Capper et al.
+6164621081_R04C02,No 1p/19q-Codeletion,Capper et al.
+9444375004_R06C01,No 1p/19q-Codeletion,Capper et al.
+9444375004_R01C02,No 1p/19q-Codeletion,Capper et al.
+9444375004_R05C02,No 1p/19q-Codeletion,Capper et al.
+9444375017_R03C01,No 1p/19q-Codeletion,Capper et al.
+9741950100_R02C02,No 1p/19q-Codeletion,Capper et al.
+6229017120_R01C01,No 1p/19q-Codeletion,Capper et al.
+9969477058_R03C01,No 1p/19q-Codeletion,Capper et al.
+8942326114_R02C02,No 1p/19q-Codeletion,Capper et al.
+3999875073_R02C01,No 1p/19q-Codeletion,Capper et al.
+6229017111_R04C02,No 1p/19q-Codeletion,Capper et al.
+9407210003_R06C01,No 1p/19q-Codeletion,Capper et al.
+3998952003_R04C02,No 1p/19q-Codeletion,Capper et al.
+9611518109_R01C02,No 1p/19q-Codeletion,Capper et al.
+6229017120_R02C01,No 1p/19q-Codeletion,Capper et al.
+6229017120_R04C01,No 1p/19q-Codeletion,Capper et al.
+6229017120_R02C02,No 1p/19q-Codeletion,Capper et al.
+6229017111_R01C01,No 1p/19q-Codeletion,Capper et al.
+9611518110_R04C02,No 1p/19q-Codeletion,Capper et al.
+9969477074_R03C02,No 1p/19q-Codeletion,Capper et al.
+9878820127_R06C01,No 1p/19q-Codeletion,Capper et al.
+9513149129_R05C01,No 1p/19q-Codeletion,Capper et al.
+6229017111_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878827210_R05C01,No 1p/19q-Codeletion,Capper et al.
+3999308200_R06C01,No 1p/19q-Codeletion,Capper et al.
+9855358058_R05C02,No 1p/19q-Codeletion,Capper et al.
+9878820082_R04C02,No 1p/19q-Codeletion,Capper et al.
+9878820030_R01C01,No 1p/19q-Codeletion,Capper et al.
+9969477022_R04C01,No 1p/19q-Codeletion,Capper et al.
+9007225086_R02C02,No 1p/19q-Codeletion,Capper et al.
+9969477088_R06C02,No 1p/19q-Codeletion,Capper et al.
+9533774033_R05C02,No 1p/19q-Codeletion,Capper et al.
+9407201028_R01C02,No 1p/19q-Codeletion,Capper et al.
+8963282062_R03C01,No 1p/19q-Codeletion,Capper et al.
+9721365103_R01C01,No 1p/19q-Codeletion,Capper et al.
+9855358066_R02C01,No 1p/19q-Codeletion,Capper et al.
+9611518117_R05C01,No 1p/19q-Codeletion,Capper et al.
+9611518115_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477100_R02C02,No 1p/19q-Codeletion,Capper et al.
+9968646165_R02C01,No 1p/19q-Codeletion,Capper et al.
+9553932029_R05C02,No 1p/19q-Codeletion,Capper et al.
+10006823155_R04C02,No 1p/19q-Codeletion,Capper et al.
+8963282018_R02C02,No 1p/19q-Codeletion,Capper et al.
+10003886256_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820117_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999834094_R04C01,No 1p/19q-Codeletion,Capper et al.
+3999547142_R02C02,No 1p/19q-Codeletion,Capper et al.
+3999100034_R03C02,No 1p/19q-Codeletion,Capper et al.
+9721365105_R01C01,No 1p/19q-Codeletion,Capper et al.
+9968646167_R05C02,No 1p/19q-Codeletion,Capper et al.
+3999875057_R05C01,No 1p/19q-Codeletion,Capper et al.
+8963311098_R02C01,No 1p/19q-Codeletion,Capper et al.
+9533774041_R03C01,No 1p/19q-Codeletion,Capper et al.
+3999112137_R02C01,No 1p/19q-Codeletion,Capper et al.
+9855358065_R05C01,No 1p/19q-Codeletion,Capper et al.
+9969477065_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999100065_R06C02,No 1p/19q-Codeletion,Capper et al.
+6969568010_R04C01,No 1p/19q-Codeletion,Capper et al.
+6969568010_R01C01,No 1p/19q-Codeletion,Capper et al.
+3999112158_R04C01,No 1p/19q-Codeletion,Capper et al.
+9969477121_R01C01,No 1p/19q-Codeletion,Capper et al.
+8622007144_R03C02,No 1p/19q-Codeletion,Capper et al.
+9721365095_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477031_R06C02,No 1p/19q-Codeletion,Capper et al.
+9533774088_R02C01,No 1p/19q-Codeletion,Capper et al.
+9741950075_R01C01,No 1p/19q-Codeletion,Capper et al.
+9878820018_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477101_R02C02,No 1p/19q-Codeletion,Capper et al.
+6229017111_R02C02,No 1p/19q-Codeletion,Capper et al.
+9878820030_R04C02,No 1p/19q-Codeletion,Capper et al.
+3999875055_R02C01,No 1p/19q-Codeletion,Capper et al.
+9721365137_R03C02,No 1p/19q-Codeletion,Capper et al.
+9878820083_R06C02,No 1p/19q-Codeletion,Capper et al.
+9721366149_R02C02,No 1p/19q-Codeletion,Capper et al.
+9878820106_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999875115_R01C01,No 1p/19q-Codeletion,Capper et al.
+9379082092_R03C02,No 1p/19q-Codeletion,Capper et al.
+9721365095_R02C01,No 1p/19q-Codeletion,Capper et al.
+9969477018_R05C02,No 1p/19q-Codeletion,Capper et al.
+9534104007_R02C02,No 1p/19q-Codeletion,Capper et al.
+10006823123_R02C01,No 1p/19q-Codeletion,Capper et al.
+9855358026_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820140_R05C02,No 1p/19q-Codeletion,Capper et al.
+9611518113_R01C02,No 1p/19q-Codeletion,Capper et al.
+9855358065_R05C02,No 1p/19q-Codeletion,Capper et al.
+9878820082_R06C01,No 1p/19q-Codeletion,Capper et al.
+9611518116_R02C02,No 1p/19q-Codeletion,Capper et al.
+9373551023_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999308203_R02C02,No 1p/19q-Codeletion,Capper et al.
+9721365095_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878820018_R03C01,No 1p/19q-Codeletion,Capper et al.
+10006823069_R04C02,No 1p/19q-Codeletion,Capper et al.
+3999112130_R01C02,No 1p/19q-Codeletion,Capper et al.
+9855358065_R03C02,No 1p/19q-Codeletion,Capper et al.
+8963311098_R04C01,No 1p/19q-Codeletion,Capper et al.
+3999834118_R01C02,No 1p/19q-Codeletion,Capper et al.
+3999834068_R03C02,No 1p/19q-Codeletion,Capper et al.
+9741779119_R05C02,No 1p/19q-Codeletion,Capper et al.
+9007217139_R02C02,No 1p/19q-Codeletion,Capper et al.
+9855358065_R01C01,No 1p/19q-Codeletion,Capper et al.
+9969477074_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878820105_R02C02,No 1p/19q-Codeletion,Capper et al.
+8942326114_R05C02,No 1p/19q-Codeletion,Capper et al.
+9969477014_R02C02,No 1p/19q-Codeletion,Capper et al.
+3999875071_R01C01,No 1p/19q-Codeletion,Capper et al.
+9878827221_R05C02,No 1p/19q-Codeletion,Capper et al.
+9007217139_R01C02,No 1p/19q-Codeletion,Capper et al.
+8963282062_R02C01,No 1p/19q-Codeletion,Capper et al.
+9611518099_R04C02,No 1p/19q-Codeletion,Capper et al.
+9407210090_R04C02,No 1p/19q-Codeletion,Capper et al.
+9969477018_R03C01,No 1p/19q-Codeletion,Capper et al.
+9878820091_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820078_R05C02,No 1p/19q-Codeletion,Capper et al.
+9878820119_R01C01,No 1p/19q-Codeletion,Capper et al.
+9878820082_R02C02,No 1p/19q-Codeletion,Capper et al.
+9878820119_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007011_R03C01,No 1p/19q-Codeletion,Capper et al.
+8622007019_R06C01,No 1p/19q-Codeletion,Capper et al.
+8622007013_R04C01,No 1p/19q-Codeletion,Capper et al.
+8622007013_R05C02,No 1p/19q-Codeletion,Capper et al.
+8622007014_R06C01,No 1p/19q-Codeletion,Capper et al.
+8622007020_R02C01,No 1p/19q-Codeletion,Capper et al.
+6285641005_R06C01,No 1p/19q-Codeletion,Capper et al.
+6969568010_R02C02,No 1p/19q-Codeletion,Capper et al.
+9969477121_R05C01,No 1p/19q-Codeletion,Capper et al.
+8963311098_R02C02,No 1p/19q-Codeletion,Capper et al.
+9855358068_R05C01,No 1p/19q-Codeletion,Capper et al.
+6229017103_R03C02,No 1p/19q-Codeletion,Capper et al.
+9534104008_R02C02,No 1p/19q-Codeletion,Capper et al.
+8963282018_R01C02,No 1p/19q-Codeletion,Capper et al.
+8963282039_R05C02,No 1p/19q-Codeletion,Capper et al.
+9373550164_R05C02,No 1p/19q-Codeletion,Capper et al.
+9721366150_R01C01,No 1p/19q-Codeletion,Capper et al.
+9611518116_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820140_R03C01,No 1p/19q-Codeletion,Capper et al.
+10006823022_R03C02,No 1p/19q-Codeletion,Capper et al.
+9855358026_R03C01,No 1p/19q-Codeletion,Capper et al.
+9721365105_R05C02,No 1p/19q-Codeletion,Capper et al.
+9980102013_R01C01,No 1p/19q-Codeletion,Capper et al.
+10006823069_R02C01,No 1p/19q-Codeletion,Capper et al.
+3999875115_R01C02,No 1p/19q-Codeletion,Capper et al.
+9221197135_R04C01,No 1p/19q-Codeletion,Capper et al.
+3999875076_R06C01,No 1p/19q-Codeletion,Capper et al.
+3999100033_R01C01,No 1p/19q-Codeletion,Capper et al.
+9878820082_R05C02,No 1p/19q-Codeletion,Capper et al.
+3998952004_R02C01,No 1p/19q-Codeletion,Capper et al.
+9969477088_R05C01,No 1p/19q-Codeletion,Capper et al.
+9534104007_R04C01,No 1p/19q-Codeletion,Capper et al.
+3999834104_R04C01,No 1p/19q-Codeletion,Capper et al.
+8959312010_R03C01,No 1p/19q-Codeletion,Capper et al.
+9647455008_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963311098_R05C01,No 1p/19q-Codeletion,Capper et al.
+3998952004_R02C02,No 1p/19q-Codeletion,Capper et al.
+9878820106_R06C01,No 1p/19q-Codeletion,Capper et al.
+9855358032_R01C01,No 1p/19q-Codeletion,Capper et al.
+9611518117_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999834063_R05C02,No 1p/19q-Codeletion,Capper et al.
+8622007011_R01C01,No 1p/19q-Codeletion,Capper et al.
+8622007019_R04C01,No 1p/19q-Codeletion,Capper et al.
+8622007019_R05C01,No 1p/19q-Codeletion,Capper et al.
+8622007011_R05C02,No 1p/19q-Codeletion,Capper et al.
+8622007013_R02C01,No 1p/19q-Codeletion,Capper et al.
+8622007013_R01C02,No 1p/19q-Codeletion,Capper et al.
+8622007013_R06C02,No 1p/19q-Codeletion,Capper et al.
+8622007014_R02C01,No 1p/19q-Codeletion,Capper et al.
+8622007014_R02C02,No 1p/19q-Codeletion,Capper et al.
+6229017111_R05C01,No 1p/19q-Codeletion,Capper et al.
+8622007014_R04C02,No 1p/19q-Codeletion,Capper et al.
+8622007019_R06C02,No 1p/19q-Codeletion,Capper et al.
+8622007020_R06C01,No 1p/19q-Codeletion,Capper et al.
+6969568010_R02C01,No 1p/19q-Codeletion,Capper et al.
+6969568010_R03C01,No 1p/19q-Codeletion,Capper et al.
+6929793058_R01C01,No 1p/19q-Codeletion,Capper et al.
+6929793058_R02C01,No 1p/19q-Codeletion,Capper et al.
+6285641004_R02C02,No 1p/19q-Codeletion,Capper et al.
+6285641004_R05C01,No 1p/19q-Codeletion,Capper et al.
+6285641005_R05C01,No 1p/19q-Codeletion,Capper et al.
+9534104008_R06C02,No 1p/19q-Codeletion,Capper et al.
+6969568010_R05C02,No 1p/19q-Codeletion,Capper et al.
+6285641005_R01C01,No 1p/19q-Codeletion,Capper et al.
+6969568010_R04C02,No 1p/19q-Codeletion,Capper et al.
+6285641004_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963282039_R06C01,No 1p/19q-Codeletion,Capper et al.
+3999875055_R01C02,No 1p/19q-Codeletion,Capper et al.
+10006823144_R01C02,No 1p/19q-Codeletion,Capper et al.
+6229017120_R05C01,No 1p/19q-Codeletion,Capper et al.
+8959312010_R04C01,No 1p/19q-Codeletion,Capper et al.
+9878820104_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963282039_R02C01,No 1p/19q-Codeletion,Capper et al.
+9741950008_R02C02,No 1p/19q-Codeletion,Capper et al.
+6229017103_R04C01,No 1p/19q-Codeletion,Capper et al.
+3999834092_R06C02,No 1p/19q-Codeletion,Capper et al.
+6229017103_R05C01,No 1p/19q-Codeletion,Capper et al.
+6229017111_R04C01,No 1p/19q-Codeletion,Capper et al.
+9721365103_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477100_R06C01,No 1p/19q-Codeletion,Capper et al.
+9444375114_R06C01,No 1p/19q-Codeletion,Capper et al.
+9969477064_R01C02,No 1p/19q-Codeletion,Capper et al.
+6229017111_R01C02,No 1p/19q-Codeletion,Capper et al.
+9855358066_R02C02,No 1p/19q-Codeletion,Capper et al.
+9969477086_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999308203_R05C02,No 1p/19q-Codeletion,Capper et al.
+6229017103_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963282018_R03C02,No 1p/19q-Codeletion,Capper et al.
+8963282018_R01C01,No 1p/19q-Codeletion,Capper et al.
+8963282062_R04C01,No 1p/19q-Codeletion,Capper et al.
+9611518113_R02C02,No 1p/19q-Codeletion,Capper et al.
+9610361003_R05C02,No 1p/19q-Codeletion,Capper et al.
+9611518099_R06C01,No 1p/19q-Codeletion,Capper et al.
+3999112130_R02C02,No 1p/19q-Codeletion,Capper et al.
+9721365103_R03C01,No 1p/19q-Codeletion,Capper et al.
+9611518117_R04C01,No 1p/19q-Codeletion,Capper et al.
+8963282046_R03C01,No 1p/19q-Codeletion,Capper et al.
+9376561024_R03C01,No 1p/19q-Codeletion,Capper et al.
+3999100033_R06C02,No 1p/19q-Codeletion,Capper et al.
+9969477088_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007144_R01C02,No 1p/19q-Codeletion,Capper et al.
+9611518113_R03C01,No 1p/19q-Codeletion,Capper et al.
+9444374168_R06C02,No 1p/19q-Codeletion,Capper et al.
+3999834070_R01C01,No 1p/19q-Codeletion,Capper et al.
+9513149129_R02C02,No 1p/19q-Codeletion,Capper et al.
+9721365137_R03C01,No 1p/19q-Codeletion,Capper et al.
+9721365137_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963282046_R05C01,No 1p/19q-Codeletion,Capper et al.
+9007217139_R03C02,No 1p/19q-Codeletion,Capper et al.
+9878827235_R05C02,No 1p/19q-Codeletion,Capper et al.
+3999308200_R01C01,No 1p/19q-Codeletion,Capper et al.
+9611518116_R01C01,No 1p/19q-Codeletion,Capper et al.
+9611518117_R01C02,No 1p/19q-Codeletion,Capper et al.
+9647455008_R02C02,No 1p/19q-Codeletion,Capper et al.
+10003886258_R02C02,No 1p/19q-Codeletion,Capper et al.
+8622007144_R04C02,No 1p/19q-Codeletion,Capper et al.
+8942326114_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999543047_R05C02,No 1p/19q-Codeletion,Capper et al.
+9969477017_R04C02,No 1p/19q-Codeletion,Capper et al.
+9611518110_R05C02,No 1p/19q-Codeletion,Capper et al.
+9878827225_R02C01,No 1p/19q-Codeletion,Capper et al.
+10006823144_R02C01,No 1p/19q-Codeletion,Capper et al.
+10006823155_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999875115_R02C01,No 1p/19q-Codeletion,Capper et al.
+9878820018_R06C02,No 1p/19q-Codeletion,Capper et al.
+9721365104_R02C02,No 1p/19q-Codeletion,Capper et al.
+9878820084_R01C02,No 1p/19q-Codeletion,Capper et al.
+9968646164_R06C02,No 1p/19q-Codeletion,Capper et al.
+9855358068_R03C01,No 1p/19q-Codeletion,Capper et al.
+9878820105_R03C02,No 1p/19q-Codeletion,Capper et al.
+10003886252_R04C02,No 1p/19q-Codeletion,Capper et al.
+9969477064_R06C02,No 1p/19q-Codeletion,Capper et al.
+8963282062_R01C02,No 1p/19q-Codeletion,Capper et al.
+9878820083_R05C02,No 1p/19q-Codeletion,Capper et al.
+3999100034_R06C01,No 1p/19q-Codeletion,Capper et al.
+9007225082_R05C02,No 1p/19q-Codeletion,Capper et al.
+9611518099_R03C02,No 1p/19q-Codeletion,Capper et al.
+3999834070_R01C02,No 1p/19q-Codeletion,Capper et al.
+9721366149_R05C01,No 1p/19q-Codeletion,Capper et al.
+9533774033_R05C01,No 1p/19q-Codeletion,Capper et al.
+10003886259_R03C01,No 1p/19q-Codeletion,Capper et al.
+8959312010_R06C01,No 1p/19q-Codeletion,Capper et al.
+9968646118_R03C02,No 1p/19q-Codeletion,Capper et al.
+9969477022_R01C01,No 1p/19q-Codeletion,Capper et al.
+9741779119_R06C01,No 1p/19q-Codeletion,Capper et al.
+10006823122_R05C02,No 1p/19q-Codeletion,Capper et al.
+9855358001_R06C01,No 1p/19q-Codeletion,Capper et al.
+8963282062_R06C02,No 1p/19q-Codeletion,Capper et al.
+9420867053_R06C02,No 1p/19q-Codeletion,Capper et al.
+9878820123_R06C01,No 1p/19q-Codeletion,Capper et al.
+9878820066_R06C02,No 1p/19q-Codeletion,Capper et al.
+9379086155_R06C01,No 1p/19q-Codeletion,Capper et al.
+ULP-WGS-TCGA-02-0003,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-0033,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-0047,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-0055,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-2466,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-2470,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-2483,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-2485,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-02-2486,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0119,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0122,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0125,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0126,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0128,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0129,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0130,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0132,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0137,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0138,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0139,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0140,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0141,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0142,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0145,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0152,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0154,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0155,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0156,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0157,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0158,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0165,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0166,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0167,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0168,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0169,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0171,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0173,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0174,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0176,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0178,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0185,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0187,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0189,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0190,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0192,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0209,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0210,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0211,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0213,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0216,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0219,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0221,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0237,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0238,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0240,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0241,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0644,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0645,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0646,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0648,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0649,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0686,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0743,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0744,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0745,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0747,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0749,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0875,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0876,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0877,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0878,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0879,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0881,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0882,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-0939,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1084,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1087,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1800,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1801,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1804,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-1805,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2557,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2558,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2559,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2561,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2562,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2563,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2564,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2565,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2566,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2567,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2569,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-2570,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5408,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5410,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5411,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5412,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5413,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5414,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5415,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5416,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5417,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5418,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-5856,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-6389,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-6390,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-A5U0,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-A6S0,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-A6S1,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-A7TK,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-06-A7TL,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-08-0386,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0615,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0616,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0618,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0619,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0656,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0657,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0662,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0670,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0688,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0691,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0692,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0707,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0772,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0773,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0775,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0778,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0818,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0819,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0820,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0821,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0822,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0826,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0827,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0828,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-0829,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1088,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1089,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1092,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1093,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1597,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1598,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1599,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1600,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-1602,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3644,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3646,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3649,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3650,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3651,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-3653,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-5295,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-5299,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-12-5301,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0736,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0786,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0787,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0789,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0790,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0812,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0813,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0817,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0862,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0865,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0867,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-0871,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1034,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1043,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1396,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1402,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1451,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1453,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1455,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1456,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1458,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1795,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1821,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1823,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1825,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1827,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-1829,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-2554,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-2555,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-3476,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-3477,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-14-4157,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-15-0742,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-15-1444,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-15-1446,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-0846,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-0848,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-0850,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-0861,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-1045,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-16-1048,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-0957,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1385,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1386,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1387,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1388,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1389,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1390,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1786,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1787,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1788,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1789,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1790,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-1791,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2619,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2620,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2621,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2623,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2624,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2625,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2629,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-2631,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-4065,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-4068,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5950,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5951,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5954,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5955,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5956,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5958,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5959,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-5960,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-A60I,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-A6J4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-19-A6J5,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-1439,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-1442,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-1799,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5132,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5133,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5134,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5135,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5136,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-5139,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-6174,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-26-A7UX,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1830,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1831,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1832,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1833,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1834,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1835,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1836,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1837,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-1838,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2518,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2519,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2521,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2523,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2524,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2526,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2527,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-27-2528,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1745,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1746,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1747,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1749,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1750,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1751,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1753,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1755,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-1757,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2499,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2501,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2502,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2506,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2509,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2510,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2513,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-2514,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5204,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5207,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5208,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5209,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5214,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5215,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5216,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5218,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5219,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-5220,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-28-6450,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1970,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1976,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1977,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1979,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1982,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1986,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-1991,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2491,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2494,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2495,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2615,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2616,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2632,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2634,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-2638,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4208,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4209,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4210,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4211,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4213,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-4719,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-32-5222,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-2571,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-2572,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-2573,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-2575,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-3392,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-3393,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-3915,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-4097,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-41-5651,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-4W-AA9R,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-4W-AA9T,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-74-6581,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4925,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4926,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4927,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4929,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4931,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4932,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4934,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-4935,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6191,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6192,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6193,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6282,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6657,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6660,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6661,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-76-6663,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-81-5910,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-87-5896,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-4938,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-4941,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-4942,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-4943,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-4944,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5390,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5393,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5394,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5395,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5396,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-5397,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6186,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6188,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6290,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6665,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6666,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6667,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6668,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6669,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-CS-6670,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5270,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5273,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5274,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5275,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5276,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5277,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5278,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5279,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5280,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-5281,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4X9,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XA,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XB,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XC,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XD,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XE,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XF,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XG,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A4XH,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64L,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64O,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64P,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64Q,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64R,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64S,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64U,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64V,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64W,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A64X,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A75K,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A75L,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A75M,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A75O,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DB-A75P,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-5140,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-5141,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-5142,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-5143,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-5144,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A669,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A66B,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A66D,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A66F,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A66G,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A7UR,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A7US,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A7UT,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A7UU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DH-A7UV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5847,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5849,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5851,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5852,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5853,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5854,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5855,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5870,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5871,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5872,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-5874,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6392,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6393,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6394,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6395,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6396,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6397,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6399,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6400,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6401,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6402,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6403,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6404,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6405,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6406,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6407,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6408,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6410,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-6542,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7006,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7007,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7008,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7009,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7012,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7013,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7018,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7019,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7290,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7292,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7294,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7298,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7299,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7300,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7301,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7302,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7304,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7306,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-7309,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8158,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8161,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8162,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8163,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8164,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8165,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8166,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8167,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-8168,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TP,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TR,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TS,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TT,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A5TY,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A6S2,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A6S3,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A6S6,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A6S7,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A6S8,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A76K,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A76L,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A76R,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7T6,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7T8,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TB,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TC,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TD,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TG,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TI,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-DU-A7TJ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5302,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5303,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5304,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5305,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5307,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5311,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5318,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5319,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-5322,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YD,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YE,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YH,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YI,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YJ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YK,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YL,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YM,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YN,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YO,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YQ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YS,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7YY,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7Z2,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7Z3,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7Z4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-E1-A7Z6,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-EZ-7264,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-F6-A8O3,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-F6-A8O4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-5962,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-5963,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-5964,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-5965,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-6688,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-6689,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-6690,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-6691,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-6692,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7634,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7636,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7637,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7638,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7641,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-7643,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8181,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8182,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8185,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8186,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8187,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8188,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8189,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-8191,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A4MT,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A4MU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A4MW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A4MX,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A4MY,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A60J,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A60K,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A60L,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A6IZ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A6J1,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A6J3,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A70Y,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A70Z,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A710,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A711,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A713,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A87N,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FG-A87Q,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-FN-7833,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7467,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7468,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7469,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7470,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7471,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7472,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7473,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7474,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7475,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7476,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7477,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7480,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7481,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7482,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7483,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7601,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7602,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7603,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7604,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7605,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7606,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7607,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7608,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7609,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7610,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7611,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7616,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7620,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7676,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7677,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7680,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7681,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7684,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7686,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7687,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7688,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7689,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7690,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7691,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7692,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7693,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7694,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7695,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7854,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7855,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7856,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7857,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7858,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7860,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7873,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7874,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7875,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7877,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7879,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7880,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7881,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7882,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7884,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-7902,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8010,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8011,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8012,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8013,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8015,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8018,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8019,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8104,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8105,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8106,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8107,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8108,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8109,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8110,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8111,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8113,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8114,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8558,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8563,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-8564,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A4DS,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A4DV,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5R5,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5R7,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5R9,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5RA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5RB,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A5RC,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A614,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A615,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A616,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A617,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A618,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A619,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A61A,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A61B,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A61C,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A74H,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A74J,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A74K,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A74L,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HT-A74O,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7486,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7487,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7489,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7490,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7491,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-7495,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-8319,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-8320,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-8321,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-8322,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-A5KJ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-A5KK,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-A5KL,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-HW-A5KM,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-IK-7675,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-KT-A74X,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-KT-A7W1,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5ET,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EX,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EY,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5EZ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5F0,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5F1,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5F2,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5F4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A5F6,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A72U,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A72W,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A72X,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A72Z,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A730,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A733,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A735,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A736,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A737,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A77W,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A77X,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-P5-A780,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A65R,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A65S,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A65V,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A65X,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A65Z,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CS,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CU,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CX,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CY,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6CZ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6X3,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6X4,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6X5,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6X8,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6X9,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6XA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A6XC,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A86X,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-QH-A870,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-R8-A6MK,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-R8-A6ML,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-R8-A6MO,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-R8-A6YH,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-R8-A73M,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-RR-A6KA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RR-A6KB,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RR-A6KC,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A83X,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A83Y,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A83Z,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A840,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A843,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A845,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-RY-A847,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TS,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TU,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TW,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TX,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TY,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6TZ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U0,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U1,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U2,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U5,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U6,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U8,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6U9,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6UA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6UB,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WD,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WE,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WG,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WH,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WI,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WL,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WM,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WN,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WO,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WP,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A6WQ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7IQ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7IS,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7IX,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7IY,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7IZ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7J0,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7J1,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7J2,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7J3,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7QW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7QX,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7QY,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7QZ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R1,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R2,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R3,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R7,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A7R8,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A89V,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-S9-A89Z,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A7C3,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A7C4,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A7C5,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A7CA,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A7CF,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84B,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84C,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84F,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84G,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84H,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84I,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84J,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84L,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84M,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84O,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84Q,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84R,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84S,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TM-A84T,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RF,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RG,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RH,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RI,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RJ,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RK,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RM,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RN,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RO,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RP,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RQ,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RR,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RS,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RU,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RV,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A7RW,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-TQ-A8XE,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8C8,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8C9,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CA,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CB,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CD,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CE,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CF,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VM-A8CH,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VV-A829,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-VV-A86M,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-VW-A7QS,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-VW-A8FI,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-W9-A837,1p/19q-Codeletion ,TCGA ULP-WGS
+ULP-WGS-TCGA-WH-A86K,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A858,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A859,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A85A,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A85B,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A85C,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A85D,No 1p/19q-Codeletion,TCGA ULP-WGS
+ULP-WGS-TCGA-WY-A85E,No 1p/19q-Codeletion,TCGA ULP-WGS
