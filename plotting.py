@@ -5,15 +5,8 @@ __maintainer__ = "Nicholas Nuechterlein"
 # ==============================================================================
 import numpy as np
 import pandas as pd
-import os
-import copy
-
-from dim_reduction import dm_plot
 
 import matplotlib.pyplot as plt
-from matplotlib import colors as mcolors
-import seaborn as sns
-
 import matplotlib as mpl
 mpl.rcParams['pdf.fonttype'] = 42
 
@@ -71,7 +64,7 @@ def scna_manhattan_plot(scna_df,
         end_dict[chrom] = np.max(gene_loc_df[gene_loc_df[chr_col] == str(chrom)]['end']) + end_dict[str(int(chrom)-1)]
 
     # get gene --> x-axis coordinates
-    gene_loc_df['chrom_start'] = copy.deepcopy(gene_loc_df[chr_col])
+    gene_loc_df['chrom_start'] = gene_loc_df[chr_col].copy()
     gene_loc_df['chrom_start'] = gene_loc_df['chrom_start'].replace(start_dict)
     gene_loc_df['global_start'] = gene_loc_df[bp_start_col] + gene_loc_df['chrom_start']
 
@@ -83,10 +76,10 @@ def scna_manhattan_plot(scna_df,
         scna_df_avg = scna_df.sum(axis=0)/scna_df.shape[0]
         scna_diff_df =  scna_df2_avg - scna_df_avg
 
-        ys_pos = copy.deepcopy(scna_diff_df)
+        ys_pos = scna_diff_df.copy()
         ys_pos[ys_pos < 0] = 0
 
-        ys_neg = copy.deepcopy(scna_diff_df)
+        ys_neg = scna_diff_df.copy()
         ys_neg[ys_neg > 0] = 0
 
         plot_df = pd.concat([gene_loc_df['global_start'], ys_neg, ys_pos], axis=1).rename(columns={0:'losses', 1:'gains'}).dropna()
@@ -95,15 +88,15 @@ def scna_manhattan_plot(scna_df,
     else:
         #### plot difference in LOSSES ###
         # get losses in df1
-        df_temp = copy.deepcopy(scna_df)
-        df_temp[df_temp > 0] = 0
-        negitives = df_temp.sum(axis=0)/df_temp.shape[0]
+        _scna_df = scna_df.copy()
+        _scna_df[_scna_df > 0] = 0
+        negitives = _scna_df.sum(axis=0)/_scna_df.shape[0]
 
         #### plot difference in GAINS ###
         # get gains in df1
-        df_temp = copy.deepcopy(scna_df)
-        df_temp[df_temp < 0] = 0
-        positives = df_temp.sum(axis=0)/df_temp.shape[0]
+        _scna_df = scna_df.copy()
+        _scna_df[_scna_df < 0] = 0
+        positives = _scna_df.sum(axis=0)/_scna_df.shape[0]
 
         plot_df = pd.concat([gene_loc_df['global_start'], negitives, positives], axis=1).rename(columns={0:'losses', 1:'gains'}).dropna()
 
