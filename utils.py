@@ -28,7 +28,7 @@ def get_pairwise_p_values(kmf_df):
         kmf_temp_df = kmf_df.loc[pair_idxs]
         col0, col1, col2 = kmf_temp_df.columns[0], kmf_temp_df.columns[1], kmf_temp_df.columns[2]
         results = multivariate_logrank_test(kmf_temp_df[col0],  kmf_temp_df[col1], kmf_temp_df[col2])
-        p_value_dict[str((class1, class2))] = results.p_value
+        p_value_dict[str((class1, class2))] = {'p-value':results.p_value}
 
-    p_value_df = pd.DataFrame.from_dict(p_value_dict, orient='index').sort_values(0)
+    p_value_df = pd.DataFrame.from_dict(p_value_dict, orient='index').sort_values('p-value')
     return p_value_df
