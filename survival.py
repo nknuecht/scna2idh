@@ -68,7 +68,6 @@ def survival_curves(kmf_df,
     mpl.rcParams['pdf.fonttype'] = 42
     plt.rcParams['font.family'] = "sans-serif"
     plt.rcParams['font.sans-serif'] = font
-    print('hr_replace_dict at top:', hr_replace_dict)
 
     T = kmf_df[kmf_df.columns[0]]/365.25
     E = kmf_df[kmf_df.columns[1]]
@@ -79,9 +78,6 @@ def survival_curves(kmf_df,
 
     vals, cnts = np.unique(y, return_counts=True)
     labels, counts = list(vals), list(cnts)
-    if verbose:
-        print('labels', labels)
-        print('counts', counts)
 
     if len(labels) > len(linestyles):
         linestyles = linestyles + ['-']*len(labels)
@@ -139,10 +135,7 @@ def survival_curves(kmf_df,
         os_col_name, label_col_name, event_col_name = kmf_return_df.columns[0], kmf_return_df.columns[1],kmf_return_df.columns[2]
         # label_col_name = 'cluster'
         hr_kmf_df = copy.deepcopy(kmf_return_df)
-        print('hr_replace_dict before:', hr_replace_dict)
         if not hr_replace_dict:
-            print('label_col_name', label_col_name)
-            print('hr_replace_dict', hr_replace_dict)
             for i, val in enumerate(np.unique(hr_kmf_df[label_col_name])):
                 hr_replace_dict[val] = i
 
@@ -152,12 +145,9 @@ def survival_curves(kmf_df,
         # HR = cph.hazard_ratios_[label_col_name]
         HR = cph.summary['coef'][label_col_name]
         survival_stats['HR'] = HR
-        print('HR', HR)
 
     results = multivariate_logrank_test(T.loc[p_val_idxs],  label_df.loc[p_val_idxs], E.loc[p_val_idxs])
-    # print('logrank input size:', kmf_return_df.shape)
     p_value = results.p_value
-    print('p-value', p_value)
     if p_value >= 1e-3:
         p_value = '= ' + str(np.round(p_value, pval_dec))
     elif p_value < 1e-3 and p_value >= 1e-4:
@@ -179,7 +169,6 @@ def survival_curves(kmf_df,
     elif p_value < 1e-11:
         p_value = '<< 1e-10'
     else:
-        print('p-value ERROR!')
         p_value = '= '+str(p_value)
     survival_stats['p-value'] = p_value
     if show_p_value and show_hr:
