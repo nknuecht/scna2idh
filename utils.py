@@ -4,6 +4,7 @@ __license__ = "MIT"
 __maintainer__ = "Nicholas Nuechterlein"
 # ==============================================================================
 import pandas as pd
+import numpy as np
 
 from lifelines.statistics import multivariate_logrank_test
 
