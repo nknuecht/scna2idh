@@ -83,7 +83,6 @@ If this work useful for you, please cite the following papers:
 
 If you find this work useful, please cite the following [paper](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-021-01295-3) (PMID: 34863298):
 
-````
 ```
 @article{nuechterlein2021machine,
   title={Machine learning modeling of genome-wide copy number alteration signatures reliably predicts IDH mutational status in adult diffuse glioma},
@@ -96,7 +95,6 @@ If you find this work useful, please cite the following [paper](https://actaneur
   publisher={BioMed Central}
 }
 ```
-````
 
 
 
