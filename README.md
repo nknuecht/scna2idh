@@ -62,7 +62,7 @@ This repository gives a system that classifies adult diffuse glioma as 1p/19q-co
 
 Calling 1p/19q-codeletions based a 85% threshold for loss of chromosome arms 1p, 1q, 19p, and 19q our system classifies oligodendrogliomas in all three versions of our TCGA training set (UCSC hg19, GDC hg19, GDC hg38) with 100% accuacy. Our system's second stage--an IDH-mutation classifier trained on adult astrocytic glioma--also performed well  (AUC= 0.990 +/- 0.001, MCC=0.935 +/- 0.006). We calabrated this classifier and rejected samples whose prediction was given with 70% or less confidence. This raised our model's performance (AUC= 0.992 +/- 0.001, MCC = 0.970 +/- 0.004) at the cost of only rejecting 5% of samples.
 
-### Validation on three independent datasets and hold TCGA validation set
+### Validation on three independent datasets and holdout TCGA validation set
 
 ![val_results](./figures/val_results.png)
 
@@ -74,8 +74,33 @@ As shown above, an 85% threshold was optimal for the TCGA training set and optim
 
 Our REMBRANDT 1p/19q-codeleted oligodendroglioma screen captured the densest area of tumors with significant gene losses on chromosome arms 1p and 19q, consistent with the 1p/19q-codeletion screens on our training and validation sets. Our IDH mutation predictions on histological astrocytomas generated a dramatic survival difference between predicted IDH-wildtype gliomas and IDH-mutant astrocytomas (HR=1.51, p = 0.003), log-rank) and appeared to correctly identify histological lower-grade IDH-wildtype gliomas (OS=1.1 years) now considered to be IDH-wildtype glioblastomas. Histological glioblastomas predicted to be IDH-wildtype glioblastomas have the same median overall survival (1.1 years), and their survival trajectory was significantly worse than those of histological grade 4 tumors that were predicted IDH-mutant astrocytomas (HR=0.78, p=0.004, log-rank).
 
+```
+## Citation
+If this work useful for you, please cite the following papers:
+```
+
+## Citation
+
+If you find this work useful, please cite the following [paper](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-021-01295-3) (PMID: 34863298):
+
+````
+```
+@article{nuechterlein2021machine,
+  title={Machine learning modeling of genome-wide copy number alteration signatures reliably predicts IDH mutational status in adult diffuse glioma},
+  author={Nuechterlein, Nicholas and Shapiro, Linda G and Holland, Eric C and Cimino, Patrick J},
+  journal={Acta Neuropathologica Communications},
+  volume={9},
+  number={1},
+  pages={1--18},
+  year={2021},
+  publisher={BioMed Central}
+}
+```
+````
+
 
 
 ## References
+
 <a id="1">[1]</a> Mermel CH, Schumacher SE, Hill B, Meyerson ML, Beroukhim R, Getz G (2011) GISTIC2.0 facilitates sensitive and confident localization of the targets of focal somatic copy-number alteration in human cancers. Genome Biol 12: R41 Doi 10.1186/gb-2011-12-4-r41
 
