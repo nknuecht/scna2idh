@@ -131,3 +131,105 @@ def scna_manhattan_plot(scna_df,
         plt.savefig(outfile, transparent=True, dpi=300)
     plt.show()
     return plot_df
+
+
+def get_threshold_plot_data(model_dict, thresholds=None):
+    '''
+    returns the values of performance metrics at each model prediction confidence threshold
+    '''
+    if thresholds is None:
+        thresholds = np.linspace(0.5, .99, 50)
+
+    result_thesholds_mean_dict = {}
+    result_thesholds_std_dict = {}
+
+    for threshold in tqdm(thresholds):
+        result_theshold_df = pd.DataFrame(columns=['auc','avg_acc','f1','precision','recall','kappa','MCC'])
+        epoch_results_dict = {}
+        for epoch in model_dict:
+            # get dataframe that gives prediction, confidence, and ground truth label for each sample
+            pred_df = model_dict[epoch]
+
+            # get predicted wildtype tumors (i.e., predicted 0s) to convert confidence scores from [0.5, 1] to [0, 1]
+            if pred_df['Score'].min() >= 0.5:
+                wt_pred_idxs = pred_df.loc[pred_df['Pred'] == '0.0'].index
+                pred_df.loc[wt_pred_idxs, 'Score'] = 1 - pred_df.loc[wt_pred_idxs]['Score']
+
+            preds = pred_df['Pred'].astype(float).astype(int)
+            probs = pred_df['Score']
+            labels = pred_df['IDH'].astype(float).astype(int)
+
+            above_thresh_idxs = probs.loc[(probs < (1 - threshold)) | (probs > threshold)].index
+            metric_dict, _ = get_metrics_helper(preds=preds.loc[above_thresh_idxs],
+                                                              probs=probs.loc[above_thresh_idxs],
+                                                              labels=labels.loc[above_thresh_idxs])
+            metric_dict['Samples'] = len(above_thresh_idxs)/len(pred_df)
+            epoch_results_dict[epoch] = metric_dict
+
+        result_thesholds_mean_dict[threshold] = pd.DataFrame.from_dict(data=epoch_results_dict,
+                                                                  orient='index').mean(axis=0).to_dict()
+        result_thesholds_std_dict[threshold] = pd.DataFrame.from_dict(data=epoch_results_dict, ###########
+                                                                      orient='index').std(axis=0).to_dict()
+    result_thesholds_mean_df = pd.DataFrame.from_dict(data=result_thesholds_mean_dict, orient='index')
+    result_thesholds_std_df = pd.DataFrame.from_dict(data=result_thesholds_std_dict, orient='index')
+    result_thesholds_std_df = result_thesholds_std_df.rename(columns={x:x+'_std' for
+                                                                      x in result_thesholds_std_df.columns})
+
+    return result_thesholds_mean_df, result_thesholds_std_df
+
+def threshold_plot(result_thesholds_mean_df, result_thesholds_std_df, title=None, hline=0.9, vline=0.7,
+                   save=False, outfile=None, legendsize=24):
+   '''
+   plots the values of performance metrics at each model prediction confidence threshold
+   '''
+    if title is None:
+        title = 'Logistic Regression Confidence vs. Performance'
+    result_thesholds_df = pd.concat([result_thesholds_mean_df, result_thesholds_std_df], axis=1, join='inner')
+    _plot_df = result_thesholds_df.loc[result_thesholds_df['Samples'] > 0.5]
+
+    fig, ax = plt.subplots(2, figsize=(14,8), sharex=True, gridspec_kw={
+                               'height_ratios': [2, 1]})
+
+    metric_list = ['f1', 'precision', 'recall', 'MCC','Samples', 'avg_acc', 'auc' ]
+
+    metric_dict = {'auc':'AUC', 'avg_acc':'Balanced Accuracy', 'f1':'F1', 'precision':'Precision',
+                   'recall':'Recall', 'kappa':'Kappa', 'MCC':'MCC','Samples':'Dataset %'}
+    color_dict = {'auc':'firebrick', 'avg_acc':'royalblue', 'f1':'forestgreen', 'precision':'gold',
+                  'recall':'coral', 'kappa':'navy', 'MCC':'purple', 'Samples':'black'}
+    linestyle_dict = {'auc':'-', 'avg_acc':'-', 'f1':'-', 'precision':'--',
+                  'recall':'--', 'kappa':':', 'MCC':':', 'Samples':'-'}
+    for metric in metric_list:
+        if metric == 'Samples':
+            ax[1].plot(_plot_df.index, _plot_df[metric], color=color_dict[metric],
+                       label=metric_dict[metric],
+                       linestyle=linestyle_dict[metric],
+                       linewidth=3)
+            ax[1].fill_between(_plot_df.index, (_plot_df[metric]-_plot_df[metric + '_std']),
+                               (_plot_df[metric]+_plot_df[metric + '_std']), color=color_dict[metric], alpha=0.1)
+        else:
+            ax[0].plot(_plot_df.index, _plot_df[metric], color=color_dict[metric],
+                       label=metric_dict[metric],
+                       linestyle=linestyle_dict[metric],
+                       linewidth=3)
+            ax[0].fill_between(_plot_df.index, (_plot_df[metric]-_plot_df[metric + '_std']),
+                               (_plot_df[metric]+_plot_df[metric + '_std']), color=color_dict[metric], alpha=0.1)
+
+    ax[0].set_title(title, fontsize=30)
+    ax[0].legend(fontsize=legendsize, markerscale=4, ncol=2, framealpha=1)#, bbox_to_anchor=(1.04,1), loc="upper left")
+    ax[1].legend(fontsize=legendsize, markerscale=2)#, bbox_to_anchor=(1.04,1), loc="upper left")
+
+    ax[0].set_ylabel('Score', fontsize=24)
+    ax[1].set_ylabel('% of Dataset', fontsize=24)
+    ax[1].set_xlabel('Threshold for Model Confidence', fontsize=24)
+
+    ax[0].tick_params(axis='y', labelsize=20)
+    ax[1].tick_params(axis='y', labelsize=20)
+    ax[1].tick_params(axis='x', labelsize=22)
+    ax[1].axhline(hline, color='black', linestyle=':')
+    ax[1].axvline(vline, color='black', linestyle=':')
+    ax[0].axvline(vline, color='black', linestyle=':')
+
+
+    plt.tight_layout()
+    if save:
+        plt.savefig(outfile, dpi=300, transparent=True)
