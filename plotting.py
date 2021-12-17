@@ -179,9 +179,9 @@ def get_threshold_plot_data(model_dict, thresholds=None):
 
 def threshold_plot(result_thesholds_mean_df, result_thesholds_std_df, title=None, hline=0.9, vline=0.7,
                    save=False, outfile=None, legendsize=24):
-   '''
-   plots the values of performance metrics at each model prediction confidence threshold
-   '''
+    '''
+    plots the values of performance metrics at each model prediction confidence threshold
+    '''
     if title is None:
         title = 'Logistic Regression Confidence vs. Performance'
     result_thesholds_df = pd.concat([result_thesholds_mean_df, result_thesholds_std_df], axis=1, join='inner')
