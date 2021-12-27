@@ -1,0 +1,27 @@
+,WHO_2021_Subtype,Histologic_Grade,WHO_2021_Grade,OS,OS_EVENT,EGFR_GDC_hg19,ATRX,TP53,Age,TERTp
+TCGA-DB-A75P,"IDH-Wildtype, NEC",G2,G2,492.0,0.0,No Amp,WT,WT,25.0,
+TCGA-DH-5140,"IDH-Wildtype, Pediatric-Type",G3,G3,607.0,1.0,No Amp,WT,Mutant,38.0,WT
+TCGA-DU-6392,"IDH-Wildtype, NEC",G3,G3,6423.0,0.0,No Amp,Mutant,Mutant,35.0,
+TCGA-DU-6404,"IDH-Wildtype, Pediatric-Type",G3,G3,4068.0,1.0,No Amp,WT,WT,24.0,WT
+TCGA-DU-A7TB,"IDH-Wildtype, NEC",G2,G2,1567.0,0.0,No Amp,WT,WT,56.0,
+TCGA-DU-A7TG,Likely Oligodendroglioma,G2,G2,1351.0,1.0,No Amp,WT,WT,40.0,
+TCGA-E1-A7YY,Likely Oligodendroglioma,G2,G2,4445.0,1.0,No Amp,WT,WT,27.0,
+TCGA-FG-5963,"IDH-Wildtype, Pediatric-Type",G3,G3,775.0,1.0,No Amp,Mutant,Mutant,23.0,WT
+TCGA-FG-8181,"IDH-Wildtype, Pediatric-Type",G3,G3,862.0,0.0,No Amp,WT,WT,23.0,WT
+TCGA-FG-8189,Likely Oligodendroglioma,G2,G2,685.0,0.0,No Amp,WT,WT,33.0,
+TCGA-HT-7469,"IDH-Wildtype, Pediatric-Type",G3,G3,351.0,1.0,No Amp,Mutant,Mutant,30.0,WT
+TCGA-HT-7680,"IDH-Wildtype, Pediatric-Type",G2,G2,23.0,0.0,No Amp,WT,WT,32.0,WT
+TCGA-HT-7691,"IDH-Wildtype, Pediatric-Type",G2,G2,3.0,0.0,No Amp,WT,WT,31.0,WT
+TCGA-HT-7857,"IDH-Wildtype, Pediatric-Type",G3,G3,7.0,0.0,No Amp,Mutant,WT,24.0,WT
+TCGA-HT-8015,"IDH-Wildtype, Pediatric-Type",G2,G2,3.0,0.0,No Amp,WT,WT,21.0,WT
+TCGA-HT-8107,"IDH-Wildtype, Pediatric-Type",G2,G2,14.0,0.0,No Amp,WT,WT,62.0,WT
+TCGA-HT-8113,Likely Oligodendroglioma,G2,G2,900.0,0.0,No Amp,WT,WT,49.0,
+TCGA-P5-A5EY,"IDH-Wildtype, Pediatric-Type",G2,G2,72.0,0.0,No Amp,WT,WT,21.0,WT
+TCGA-P5-A5F6,"IDH-Wildtype, Pediatric-Type",G2,G2,39.0,0.0,No Amp,WT,WT,26.0,WT
+TCGA-S9-A6UA,"IDH-Wildtype, NEC",G3,G3,178.0,1.0,No Amp,Mutant,WT,66.0,
+TCGA-S9-A6WI,Likely Oligodendroglioma,G2,G2,2585.0,0.0,No Amp,WT,WT,56.0,
+TCGA-S9-A89V,"IDH-Wildtype, NEC",G3,G3,569.0,0.0,No Amp,Mutant,WT,70.0,
+TCGA-TM-A84C,"IDH-Wildtype, NEC",G2,G2,492.0,1.0,No Amp,WT,WT,32.0,
+TCGA-TM-A84J,"IDH-Wildtype, NEC",G3,G3,735.0,0.0,No Amp,WT,Mutant,63.0,
+TCGA-VM-A8C9,"IDH-Wildtype, NEC",G2,G2,1314.0,0.0,No Amp,WT,WT,37.0,
+TCGA-VM-A8CD,"IDH-Wildtype, NEC",G3,G3,240.0,1.0,No Amp,WT,WT,58.0,
