@@ -9,6 +9,7 @@ from argparse import ArgumentParser
 
 import pandas as pd
 import numpy as np
+import os
 
 from pycaret.classification import load_model, predict_model
 
@@ -77,13 +78,17 @@ def predict(args):
     prediction_df = oligo_pred_df.append(astro_pred_df)
     prediction_df['Pred'] = prediction_df['Pred'].replace({'0.0':'IDH-Wildtype Glioma', '1.0':'IDH-Mutant Astroctyoma',
                                                            2:'Oligodendroglioma'})
+    prediction_df = prediction_df.rename(columns={'Score':'Confidence', 'Pred':'Prediction'})
 
     # assign low confidence predictions with a "Uncertain" label
-    print('Retaining predictions with confidence over '+str(threshold)+' . .  . ')
-    low_confidence_preds_idxs = prediction_df.loc[prediction_df['Score'] < threshold].index
-    prediction_df.loc[low_confidence_preds_idxs, 'Pred'] = 'Uncertain'
+    print('Retaining predictions with confidence over '+str(threshold)+' . .  . \n')
+    low_confidence_preds_idxs = prediction_df.loc[prediction_df['Confidence'] < threshold].index
+    prediction_df.loc[low_confidence_preds_idxs, 'Prediction'] = 'Uncertain'
+    print(prediction_df['Prediction'].value_counts())
 
     if outfile:
+        if not os.path.exists(os.path.dirname(outfile)):
+            os.makedirs(os.path.dirname(outfile))
         prediction_df.to_csv(outfile)
 
 if __name__ == '__main__':
