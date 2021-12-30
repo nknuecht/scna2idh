@@ -49,7 +49,7 @@ This repository gives a system that classifies adult diffuse glioma as 1p/19q-co
      3. Run
 
         ```bash
-        python predict_glioma_subtype.py -s ./data/Xena_GBMLGG_GISTIC_Scores.csv -g ./data/gistic_cytoband_chr_arm_23109x4.csv -o ./data/tcga_preds.csv
+        python predict_glioma_subtype.py -s ./data/Xena_GBMLGG_GISTIC_Scores.csv -g ./data/gene_data/gistic_cytoband_chr_arm_23109x4.csv -o ./data/tcga_preds.csv
         ```
 
      Note: in our study, we used TCGA SCNA data we computed from copy number segmenation files downloaded from the GDC, not data preprocessed GISTIC scores hosted by UCSC's Xena. We use Xena data here for ease.
