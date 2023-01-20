@@ -1,0 +1,1091 @@
+,WHO_2021_Type
+TCGA-CS-4938,IDH-mutant astrocytoma
+TCGA-CS-4941,IDH-wildtype glioblastoma
+TCGA-CS-4942,IDH-mutant astrocytoma
+TCGA-CS-4943,IDH-mutant astrocytoma
+TCGA-CS-4944,IDH-mutant astrocytoma
+TCGA-CS-5390,Oligodendroglioma
+TCGA-CS-5393,IDH-mutant astrocytoma
+TCGA-CS-5394,Oligodendroglioma
+TCGA-CS-5395,IDH-wildtype glioblastoma
+TCGA-CS-5396,Oligodendroglioma
+TCGA-CS-5397,IDH-wildtype glioblastoma
+TCGA-CS-6186,IDH-wildtype glioblastoma
+TCGA-CS-6188,IDH-wildtype glioblastoma
+TCGA-CS-6290,IDH-mutant astrocytoma
+TCGA-CS-6665,IDH-mutant astrocytoma
+TCGA-CS-6666,IDH-mutant astrocytoma
+TCGA-CS-6667,IDH-mutant astrocytoma
+TCGA-CS-6668,Oligodendroglioma
+TCGA-CS-6669,Unknown
+TCGA-CS-6670,Oligodendroglioma
+TCGA-DB-5270,IDH-mutant astrocytoma
+TCGA-DB-5273,IDH-mutant astrocytoma
+TCGA-DB-5274,Oligodendroglioma
+TCGA-DB-5275,IDH-mutant astrocytoma
+TCGA-DB-5276,IDH-mutant astrocytoma
+TCGA-DB-5277,IDH-mutant astrocytoma
+TCGA-DB-5278,Oligodendroglioma
+TCGA-DB-5279,Oligodendroglioma
+TCGA-DB-5280,IDH-mutant astrocytoma
+TCGA-DB-5281,IDH-mutant astrocytoma
+TCGA-DB-A4X9,IDH-mutant astrocytoma
+TCGA-DB-A4XA,Oligodendroglioma
+TCGA-DB-A4XB,IDH-mutant astrocytoma
+TCGA-DB-A4XC,IDH-mutant astrocytoma
+TCGA-DB-A4XD,IDH-mutant astrocytoma
+TCGA-DB-A4XE,IDH-mutant astrocytoma
+TCGA-DB-A4XF,IDH-mutant astrocytoma
+TCGA-DB-A4XG,Oligodendroglioma
+TCGA-DB-A4XH,Oligodendroglioma
+TCGA-DB-A64L,Oligodendroglioma
+TCGA-DB-A64O,IDH-wildtype glioblastoma
+TCGA-DB-A64P,Oligodendroglioma
+TCGA-DB-A64Q,Oligodendroglioma
+TCGA-DB-A64R,Oligodendroglioma
+TCGA-DB-A64S,IDH-mutant astrocytoma
+TCGA-DB-A64U,Oligodendroglioma
+TCGA-DB-A64V,Oligodendroglioma
+TCGA-DB-A64W,Oligodendroglioma
+TCGA-DB-A64X,IDH-mutant astrocytoma
+TCGA-DB-A75K,Oligodendroglioma
+TCGA-DB-A75L,IDH-mutant astrocytoma
+TCGA-DB-A75M,IDH-mutant astrocytoma
+TCGA-DB-A75O,IDH-mutant astrocytoma
+TCGA-DB-A75P,IDH-wildtype pediatric-like glioma
+TCGA-DH-5140,IDH-wildtype pediatric-like glioma
+TCGA-DH-5141,Oligodendroglioma
+TCGA-DH-5142,IDH-mutant astrocytoma
+TCGA-DH-5143,IDH-mutant astrocytoma
+TCGA-DH-5144,Oligodendroglioma
+TCGA-DH-A669,Oligodendroglioma
+TCGA-DH-A66B,IDH-mutant astrocytoma
+TCGA-DH-A66D,IDH-mutant astrocytoma
+TCGA-DH-A66F,Oligodendroglioma
+TCGA-DH-A66G,IDH-mutant astrocytoma
+TCGA-DH-A7UR,Oligodendroglioma
+TCGA-DH-A7US,Oligodendroglioma
+TCGA-DH-A7UT,IDH-mutant astrocytoma
+TCGA-DH-A7UU,IDH-mutant astrocytoma
+TCGA-DH-A7UV,IDH-mutant astrocytoma
+TCGA-DU-5847,IDH-wildtype glioblastoma
+TCGA-DU-5849,Oligodendroglioma
+TCGA-DU-5851,IDH-mutant astrocytoma
+TCGA-DU-5852,IDH-wildtype glioblastoma
+TCGA-DU-5853,IDH-mutant astrocytoma
+TCGA-DU-5854,IDH-wildtype glioblastoma
+TCGA-DU-5855,IDH-mutant astrocytoma
+TCGA-DU-5870,Oligodendroglioma
+TCGA-DU-5871,IDH-mutant astrocytoma
+TCGA-DU-5872,IDH-mutant astrocytoma
+TCGA-DU-5874,Oligodendroglioma
+TCGA-DU-6392,IDH-wildtype pediatric-like glioma
+TCGA-DU-6393,Oligodendroglioma
+TCGA-DU-6394,Oligodendroglioma
+TCGA-DU-6395,IDH-mutant astrocytoma
+TCGA-DU-6396,IDH-mutant astrocytoma
+TCGA-DU-6397,Oligodendroglioma
+TCGA-DU-6399,IDH-mutant astrocytoma
+TCGA-DU-6400,Oligodendroglioma
+TCGA-DU-6401,IDH-mutant astrocytoma
+TCGA-DU-6402,IDH-wildtype glioblastoma
+TCGA-DU-6403,IDH-wildtype glioblastoma
+TCGA-DU-6404,IDH-wildtype pediatric-like glioma
+TCGA-DU-6405,IDH-wildtype glioblastoma
+TCGA-DU-6406,IDH-wildtype glioblastoma
+TCGA-DU-6407,IDH-mutant astrocytoma
+TCGA-DU-6408,IDH-mutant astrocytoma
+TCGA-DU-6410,Oligodendroglioma
+TCGA-DU-6542,IDH-mutant astrocytoma
+TCGA-DU-7006,IDH-wildtype glioblastoma
+TCGA-DU-7007,IDH-mutant astrocytoma
+TCGA-DU-7008,IDH-mutant astrocytoma
+TCGA-DU-7009,Oligodendroglioma
+TCGA-DU-7010,IDH-mutant astrocytoma
+TCGA-DU-7011,IDH-mutant astrocytoma
+TCGA-DU-7012,IDH-wildtype glioblastoma
+TCGA-DU-7013,IDH-wildtype glioblastoma
+TCGA-DU-7014,Unknown
+TCGA-DU-7015,IDH-mutant astrocytoma
+TCGA-DU-7018,Oligodendroglioma
+TCGA-DU-7019,IDH-mutant astrocytoma
+TCGA-DU-7290,IDH-wildtype glioblastoma
+TCGA-DU-7292,IDH-wildtype glioblastoma
+TCGA-DU-7294,Oligodendroglioma
+TCGA-DU-7298,IDH-mutant astrocytoma
+TCGA-DU-7299,IDH-mutant astrocytoma
+TCGA-DU-7300,Oligodendroglioma
+TCGA-DU-7301,IDH-mutant astrocytoma
+TCGA-DU-7302,Oligodendroglioma
+TCGA-DU-7304,IDH-mutant astrocytoma
+TCGA-DU-7306,IDH-mutant astrocytoma
+TCGA-DU-7309,IDH-mutant astrocytoma
+TCGA-DU-8158,IDH-wildtype glioblastoma
+TCGA-DU-8161,IDH-wildtype glioblastoma
+TCGA-DU-8162,IDH-wildtype glioblastoma
+TCGA-DU-8163,IDH-mutant astrocytoma
+TCGA-DU-8164,Oligodendroglioma
+TCGA-DU-8165,IDH-wildtype glioblastoma
+TCGA-DU-8166,IDH-mutant astrocytoma
+TCGA-DU-8167,IDH-mutant astrocytoma
+TCGA-DU-8168,Oligodendroglioma
+TCGA-DU-A5TP,IDH-mutant astrocytoma
+TCGA-DU-A5TR,IDH-mutant astrocytoma
+TCGA-DU-A5TS,IDH-mutant astrocytoma
+TCGA-DU-A5TT,IDH-wildtype glioblastoma
+TCGA-DU-A5TU,IDH-mutant astrocytoma
+TCGA-DU-A5TW,IDH-mutant astrocytoma
+TCGA-DU-A5TY,IDH-wildtype glioblastoma
+TCGA-DU-A6S2,Oligodendroglioma
+TCGA-DU-A6S3,Oligodendroglioma
+TCGA-DU-A6S6,Oligodendroglioma
+TCGA-DU-A6S7,IDH-mutant astrocytoma
+TCGA-DU-A6S8,Oligodendroglioma
+TCGA-DU-A76K,IDH-wildtype glioblastoma
+TCGA-DU-A76L,IDH-wildtype glioblastoma
+TCGA-DU-A76O,IDH-mutant astrocytoma
+TCGA-DU-A76R,Oligodendroglioma
+TCGA-DU-A7T6,Oligodendroglioma
+TCGA-DU-A7T8,IDH-mutant astrocytoma
+TCGA-DU-A7TA,IDH-mutant astrocytoma
+TCGA-DU-A7TB,IDH-wildtype pediatric-like glioma
+TCGA-DU-A7TC,IDH-mutant astrocytoma
+TCGA-DU-A7TD,IDH-wildtype glioblastoma
+TCGA-DU-A7TG,Likely oligodendroglioma
+TCGA-DU-A7TI,Unknown
+TCGA-DU-A7TJ,IDH-wildtype glioblastoma
+TCGA-E1-5302,IDH-mutant astrocytoma
+TCGA-E1-5303,IDH-mutant astrocytoma
+TCGA-E1-5304,IDH-mutant astrocytoma
+TCGA-E1-5305,IDH-mutant astrocytoma
+TCGA-E1-5307,IDH-mutant astrocytoma
+TCGA-E1-5311,Oligodendroglioma
+TCGA-E1-5318,Oligodendroglioma
+TCGA-E1-5319,Oligodendroglioma
+TCGA-E1-5322,IDH-mutant astrocytoma
+TCGA-E1-A7YD,IDH-wildtype glioblastoma
+TCGA-E1-A7YE,IDH-mutant astrocytoma
+TCGA-E1-A7YH,IDH-mutant astrocytoma
+TCGA-E1-A7YI,IDH-mutant astrocytoma
+TCGA-E1-A7YJ,IDH-wildtype glioblastoma
+TCGA-E1-A7YK,IDH-mutant astrocytoma
+TCGA-E1-A7YL,IDH-wildtype glioblastoma
+TCGA-E1-A7YM,IDH-wildtype glioblastoma
+TCGA-E1-A7YN,IDH-wildtype glioblastoma
+TCGA-E1-A7YO,Oligodendroglioma
+TCGA-E1-A7YQ,IDH-wildtype glioblastoma
+TCGA-E1-A7YS,Oligodendroglioma
+TCGA-E1-A7YU,IDH-mutant astrocytoma
+TCGA-E1-A7YV,IDH-mutant astrocytoma
+TCGA-E1-A7YW,IDH-mutant astrocytoma
+TCGA-E1-A7YY,Likely oligodendroglioma
+TCGA-E1-A7Z2,IDH-wildtype glioblastoma
+TCGA-E1-A7Z3,IDH-mutant astrocytoma
+TCGA-E1-A7Z4,IDH-mutant astrocytoma
+TCGA-E1-A7Z6,IDH-mutant astrocytoma
+TCGA-EZ-7264,Oligodendroglioma
+TCGA-F6-A8O3,Oligodendroglioma
+TCGA-F6-A8O4,IDH-mutant astrocytoma
+TCGA-FG-5962,Oligodendroglioma
+TCGA-FG-5963,IDH-wildtype pediatric-like glioma
+TCGA-FG-5964,Oligodendroglioma
+TCGA-FG-5965,IDH-mutant astrocytoma
+TCGA-FG-6688,IDH-wildtype glioblastoma
+TCGA-FG-6689,IDH-mutant astrocytoma
+TCGA-FG-6690,IDH-mutant astrocytoma
+TCGA-FG-6691,IDH-mutant astrocytoma
+TCGA-FG-6692,IDH-wildtype glioblastoma
+TCGA-FG-7634,Oligodendroglioma
+TCGA-FG-7636,IDH-mutant astrocytoma
+TCGA-FG-7638,Oligodendroglioma
+TCGA-FG-7641,Oligodendroglioma
+TCGA-FG-7643,IDH-wildtype glioblastoma
+TCGA-FG-8181,IDH-wildtype pediatric-like glioma
+TCGA-FG-8182,IDH-mutant astrocytoma
+TCGA-FG-8185,IDH-mutant astrocytoma
+TCGA-FG-8186,Oligodendroglioma
+TCGA-FG-8187,Oligodendroglioma
+TCGA-FG-8188,IDH-mutant astrocytoma
+TCGA-FG-8189,Likely oligodendroglioma
+TCGA-FG-8191,IDH-mutant astrocytoma
+TCGA-FG-A4MT,IDH-mutant astrocytoma
+TCGA-FG-A4MU,IDH-wildtype glioblastoma
+TCGA-FG-A4MW,IDH-wildtype glioblastoma
+TCGA-FG-A4MX,IDH-mutant astrocytoma
+TCGA-FG-A4MY,IDH-mutant astrocytoma
+TCGA-FG-A60J,IDH-mutant astrocytoma
+TCGA-FG-A60K,Oligodendroglioma
+TCGA-FG-A60L,IDH-mutant astrocytoma
+TCGA-FG-A6IZ,Oligodendroglioma
+TCGA-FG-A6J1,Oligodendroglioma
+TCGA-FG-A6J3,IDH-mutant astrocytoma
+TCGA-FG-A70Y,IDH-mutant astrocytoma
+TCGA-FG-A70Z,IDH-wildtype glioblastoma
+TCGA-FG-A710,Oligodendroglioma
+TCGA-FG-A711,IDH-mutant astrocytoma
+TCGA-FG-A713,Oligodendroglioma
+TCGA-FG-A87N,IDH-mutant astrocytoma
+TCGA-FG-A87Q,IDH-wildtype glioblastoma
+TCGA-FN-7833,IDH-mutant astrocytoma
+TCGA-HT-7467,Oligodendroglioma
+TCGA-HT-7468,Oligodendroglioma
+TCGA-HT-7469,IDH-wildtype pediatric-like glioma
+TCGA-HT-7470,IDH-mutant astrocytoma
+TCGA-HT-7471,Oligodendroglioma
+TCGA-HT-7472,IDH-mutant astrocytoma
+TCGA-HT-7473,IDH-mutant astrocytoma
+TCGA-HT-7474,IDH-mutant astrocytoma
+TCGA-HT-7475,IDH-mutant astrocytoma
+TCGA-HT-7476,IDH-mutant astrocytoma
+TCGA-HT-7477,IDH-mutant astrocytoma
+TCGA-HT-7478,IDH-mutant astrocytoma
+TCGA-HT-7479,IDH-mutant astrocytoma
+TCGA-HT-7480,Oligodendroglioma
+TCGA-HT-7481,Oligodendroglioma
+TCGA-HT-7482,IDH-mutant astrocytoma
+TCGA-HT-7483,IDH-mutant astrocytoma
+TCGA-HT-7485,IDH-mutant astrocytoma
+TCGA-HT-7601,IDH-mutant astrocytoma
+TCGA-HT-7602,IDH-mutant astrocytoma
+TCGA-HT-7603,IDH-mutant astrocytoma
+TCGA-HT-7604,IDH-mutant astrocytoma
+TCGA-HT-7605,Oligodendroglioma
+TCGA-HT-7606,IDH-mutant astrocytoma
+TCGA-HT-7607,Oligodendroglioma
+TCGA-HT-7608,Oligodendroglioma
+TCGA-HT-7609,IDH-mutant astrocytoma
+TCGA-HT-7610,IDH-mutant astrocytoma
+TCGA-HT-7611,IDH-mutant astrocytoma
+TCGA-HT-7616,Oligodendroglioma
+TCGA-HT-7620,Oligodendroglioma
+TCGA-HT-7676,IDH-mutant astrocytoma
+TCGA-HT-7677,Oligodendroglioma
+TCGA-HT-7680,IDH-wildtype pediatric-like glioma
+TCGA-HT-7681,Oligodendroglioma
+TCGA-HT-7684,IDH-mutant astrocytoma
+TCGA-HT-7686,IDH-mutant astrocytoma
+TCGA-HT-7687,Oligodendroglioma
+TCGA-HT-7688,IDH-mutant astrocytoma
+TCGA-HT-7689,IDH-mutant astrocytoma
+TCGA-HT-7690,IDH-mutant astrocytoma
+TCGA-HT-7691,IDH-wildtype pediatric-like glioma
+TCGA-HT-7692,Oligodendroglioma
+TCGA-HT-7693,IDH-mutant astrocytoma
+TCGA-HT-7694,Oligodendroglioma
+TCGA-HT-7695,Oligodendroglioma
+TCGA-HT-7854,IDH-wildtype glioblastoma
+TCGA-HT-7855,IDH-mutant astrocytoma
+TCGA-HT-7856,Oligodendroglioma
+TCGA-HT-7857,IDH-wildtype pediatric-like glioma
+TCGA-HT-7858,IDH-mutant astrocytoma
+TCGA-HT-7860,IDH-wildtype glioblastoma
+TCGA-HT-7873,IDH-mutant astrocytoma
+TCGA-HT-7874,Oligodendroglioma
+TCGA-HT-7875,Oligodendroglioma
+TCGA-HT-7877,Oligodendroglioma
+TCGA-HT-7879,IDH-mutant astrocytoma
+TCGA-HT-7880,IDH-mutant astrocytoma
+TCGA-HT-7881,Oligodendroglioma
+TCGA-HT-7882,IDH-wildtype glioblastoma
+TCGA-HT-7884,IDH-mutant astrocytoma
+TCGA-HT-7902,IDH-mutant astrocytoma
+TCGA-HT-8010,Oligodendroglioma
+TCGA-HT-8011,IDH-wildtype glioblastoma
+TCGA-HT-8012,Oligodendroglioma
+TCGA-HT-8013,IDH-mutant astrocytoma
+TCGA-HT-8015,IDH-wildtype pediatric-like glioma
+TCGA-HT-8018,IDH-mutant astrocytoma
+TCGA-HT-8019,Unknown
+TCGA-HT-8104,IDH-wildtype glioblastoma
+TCGA-HT-8105,Oligodendroglioma
+TCGA-HT-8106,IDH-mutant astrocytoma
+TCGA-HT-8107,IDH-wildtype pediatric-like glioma
+TCGA-HT-8108,IDH-mutant astrocytoma
+TCGA-HT-8109,Oligodendroglioma
+TCGA-HT-8110,IDH-wildtype glioblastoma
+TCGA-HT-8111,IDH-mutant astrocytoma
+TCGA-HT-8113,Likely oligodendroglioma
+TCGA-HT-8114,IDH-mutant astrocytoma
+TCGA-HT-8563,IDH-mutant astrocytoma
+TCGA-HT-8564,IDH-wildtype glioblastoma
+TCGA-HT-A4DS,IDH-wildtype glioblastoma
+TCGA-HT-A4DV,Oligodendroglioma
+TCGA-HT-A5R5,IDH-mutant astrocytoma
+TCGA-HT-A5R7,IDH-mutant astrocytoma
+TCGA-HT-A5R9,Oligodendroglioma
+TCGA-HT-A5RA,IDH-wildtype glioblastoma
+TCGA-HT-A5RB,IDH-mutant astrocytoma
+TCGA-HT-A5RC,IDH-wildtype glioblastoma
+TCGA-HT-A614,IDH-mutant astrocytoma
+TCGA-HT-A615,Oligodendroglioma
+TCGA-HT-A616,IDH-mutant astrocytoma
+TCGA-HT-A617,IDH-wildtype glioblastoma
+TCGA-HT-A618,IDH-mutant astrocytoma
+TCGA-HT-A619,Oligodendroglioma
+TCGA-HT-A61B,IDH-mutant astrocytoma
+TCGA-HT-A61C,IDH-wildtype glioblastoma
+TCGA-HT-A74H,IDH-wildtype glioblastoma
+TCGA-HT-A74J,IDH-mutant astrocytoma
+TCGA-HT-A74K,Oligodendroglioma
+TCGA-HT-A74L,Oligodendroglioma
+TCGA-HT-A74O,IDH-mutant astrocytoma
+TCGA-HW-7486,Oligodendroglioma
+TCGA-HW-7487,Oligodendroglioma
+TCGA-HW-7489,IDH-mutant astrocytoma
+TCGA-HW-7490,IDH-mutant astrocytoma
+TCGA-HW-7491,Oligodendroglioma
+TCGA-HW-7493,Unknown
+TCGA-HW-7495,Oligodendroglioma
+TCGA-HW-8319,IDH-mutant astrocytoma
+TCGA-HW-8320,IDH-mutant astrocytoma
+TCGA-HW-8321,IDH-mutant astrocytoma
+TCGA-HW-8322,Oligodendroglioma
+TCGA-HW-A5KJ,Oligodendroglioma
+TCGA-HW-A5KK,IDH-wildtype glioblastoma
+TCGA-HW-A5KL,IDH-mutant astrocytoma
+TCGA-HW-A5KM,IDH-mutant astrocytoma
+TCGA-IK-7675,IDH-mutant astrocytoma
+TCGA-IK-8125,Oligodendroglioma
+TCGA-KT-A74X,Oligodendroglioma
+TCGA-KT-A7W1,IDH-wildtype glioblastoma
+TCGA-P5-A5ET,Oligodendroglioma
+TCGA-P5-A5EU,IDH-mutant astrocytoma
+TCGA-P5-A5EV,IDH-mutant astrocytoma
+TCGA-P5-A5EW,IDH-mutant astrocytoma
+TCGA-P5-A5EX,Oligodendroglioma
+TCGA-P5-A5EY,IDH-wildtype pediatric-like glioma
+TCGA-P5-A5EZ,IDH-mutant astrocytoma
+TCGA-P5-A5F0,Oligodendroglioma
+TCGA-P5-A5F1,IDH-mutant astrocytoma
+TCGA-P5-A5F2,IDH-mutant astrocytoma
+TCGA-P5-A5F4,IDH-mutant astrocytoma
+TCGA-P5-A5F6,IDH-wildtype pediatric-like glioma
+TCGA-P5-A72U,IDH-wildtype glioblastoma
+TCGA-P5-A72W,IDH-mutant astrocytoma
+TCGA-P5-A72X,IDH-mutant astrocytoma
+TCGA-P5-A72Z,Oligodendroglioma
+TCGA-P5-A730,Oligodendroglioma
+TCGA-P5-A731,IDH-mutant astrocytoma
+TCGA-P5-A733,IDH-mutant astrocytoma
+TCGA-P5-A735,IDH-mutant astrocytoma
+TCGA-P5-A736,IDH-mutant astrocytoma
+TCGA-P5-A737,Oligodendroglioma
+TCGA-P5-A77W,Oligodendroglioma
+TCGA-P5-A77X,Oligodendroglioma
+TCGA-P5-A780,IDH-mutant astrocytoma
+TCGA-P5-A781,Oligodendroglioma
+TCGA-QH-A65R,Oligodendroglioma
+TCGA-QH-A65S,IDH-mutant astrocytoma
+TCGA-QH-A65V,Oligodendroglioma
+TCGA-QH-A65X,Oligodendroglioma
+TCGA-QH-A65Z,Oligodendroglioma
+TCGA-QH-A6CS,IDH-wildtype glioblastoma
+TCGA-QH-A6CU,Oligodendroglioma
+TCGA-QH-A6CV,IDH-wildtype glioblastoma
+TCGA-QH-A6CW,IDH-mutant astrocytoma
+TCGA-QH-A6CX,IDH-wildtype glioblastoma
+TCGA-QH-A6CY,Oligodendroglioma
+TCGA-QH-A6CZ,Oligodendroglioma
+TCGA-QH-A6X3,IDH-mutant astrocytoma
+TCGA-QH-A6X4,Oligodendroglioma
+TCGA-QH-A6X5,Oligodendroglioma
+TCGA-QH-A6X8,Oligodendroglioma
+TCGA-QH-A6X9,IDH-mutant astrocytoma
+TCGA-QH-A6XA,IDH-mutant astrocytoma
+TCGA-QH-A6XC,IDH-wildtype glioblastoma
+TCGA-QH-A86X,Oligodendroglioma
+TCGA-QH-A870,IDH-mutant astrocytoma
+TCGA-R8-A6MK,Oligodendroglioma
+TCGA-R8-A6ML,Oligodendroglioma
+TCGA-R8-A6MO,Oligodendroglioma
+TCGA-R8-A6YH,IDH-mutant astrocytoma
+TCGA-R8-A73M,Oligodendroglioma
+TCGA-RY-A83X,Oligodendroglioma
+TCGA-RY-A83Y,Oligodendroglioma
+TCGA-RY-A83Z,IDH-mutant astrocytoma
+TCGA-RY-A840,Oligodendroglioma
+TCGA-RY-A843,IDH-mutant astrocytoma
+TCGA-RY-A845,IDH-mutant astrocytoma
+TCGA-RY-A847,Oligodendroglioma
+TCGA-S9-A6TS,IDH-mutant astrocytoma
+TCGA-S9-A6TU,IDH-mutant astrocytoma
+TCGA-S9-A6TV,IDH-mutant astrocytoma
+TCGA-S9-A6TW,Oligodendroglioma
+TCGA-S9-A6TX,Oligodendroglioma
+TCGA-S9-A6TY,Oligodendroglioma
+TCGA-S9-A6TZ,IDH-mutant astrocytoma
+TCGA-S9-A6U0,IDH-wildtype glioblastoma
+TCGA-S9-A6U1,IDH-mutant astrocytoma
+TCGA-S9-A6U2,Oligodendroglioma
+TCGA-S9-A6U5,Oligodendroglioma
+TCGA-S9-A6U6,IDH-mutant astrocytoma
+TCGA-S9-A6U8,IDH-mutant astrocytoma
+TCGA-S9-A6U9,IDH-mutant astrocytoma
+TCGA-S9-A6UA,IDH-wildtype pediatric-like glioma
+TCGA-S9-A6UB,Oligodendroglioma
+TCGA-S9-A6WD,Oligodendroglioma
+TCGA-S9-A6WE,Oligodendroglioma
+TCGA-S9-A6WG,IDH-mutant astrocytoma
+TCGA-S9-A6WH,Oligodendroglioma
+TCGA-S9-A6WI,Likely oligodendroglioma
+TCGA-S9-A6WL,Oligodendroglioma
+TCGA-S9-A6WM,IDH-wildtype glioblastoma
+TCGA-S9-A6WN,Oligodendroglioma
+TCGA-S9-A6WO,IDH-mutant astrocytoma
+TCGA-S9-A6WP,Oligodendroglioma
+TCGA-S9-A6WQ,IDH-mutant astrocytoma
+TCGA-S9-A7IQ,Oligodendroglioma
+TCGA-S9-A7IS,IDH-mutant astrocytoma
+TCGA-S9-A7IX,IDH-wildtype glioblastoma
+TCGA-S9-A7IY,Oligodendroglioma
+TCGA-S9-A7IZ,IDH-mutant astrocytoma
+TCGA-S9-A7J0,IDH-mutant astrocytoma
+TCGA-S9-A7J1,Oligodendroglioma
+TCGA-S9-A7J2,Oligodendroglioma
+TCGA-S9-A7J3,Oligodendroglioma
+TCGA-S9-A7QW,IDH-mutant astrocytoma
+TCGA-S9-A7QX,IDH-mutant astrocytoma
+TCGA-S9-A7QY,Oligodendroglioma
+TCGA-S9-A7QZ,Oligodendroglioma
+TCGA-S9-A7R1,Oligodendroglioma
+TCGA-S9-A7R2,IDH-wildtype glioblastoma
+TCGA-S9-A7R3,IDH-mutant astrocytoma
+TCGA-S9-A7R4,IDH-mutant astrocytoma
+TCGA-S9-A7R7,IDH-mutant astrocytoma
+TCGA-S9-A7R8,IDH-mutant astrocytoma
+TCGA-S9-A89V,IDH-wildtype pediatric-like glioma
+TCGA-S9-A89Z,IDH-mutant astrocytoma
+TCGA-TM-A7C3,IDH-wildtype glioblastoma
+TCGA-TM-A7C4,IDH-mutant astrocytoma
+TCGA-TM-A7C5,Oligodendroglioma
+TCGA-TM-A7CA,IDH-mutant astrocytoma
+TCGA-TM-A7CF,IDH-mutant astrocytoma
+TCGA-TM-A84B,IDH-wildtype glioblastoma
+TCGA-TM-A84C,IDH-wildtype pediatric-like glioma
+TCGA-TM-A84F,IDH-mutant astrocytoma
+TCGA-TM-A84G,Oligodendroglioma
+TCGA-TM-A84H,IDH-mutant astrocytoma
+TCGA-TM-A84I,IDH-mutant astrocytoma
+TCGA-TM-A84J,IDH-wildtype pediatric-like glioma
+TCGA-TM-A84L,IDH-mutant astrocytoma
+TCGA-TM-A84M,Oligodendroglioma
+TCGA-TM-A84O,Oligodendroglioma
+TCGA-TM-A84Q,IDH-mutant astrocytoma
+TCGA-TM-A84R,Oligodendroglioma
+TCGA-TM-A84S,Oligodendroglioma
+TCGA-TM-A84T,IDH-mutant astrocytoma
+TCGA-TQ-A7RF,IDH-mutant astrocytoma
+TCGA-TQ-A7RG,Oligodendroglioma
+TCGA-TQ-A7RH,IDH-mutant astrocytoma
+TCGA-TQ-A7RI,Oligodendroglioma
+TCGA-TQ-A7RJ,IDH-mutant astrocytoma
+TCGA-TQ-A7RK,IDH-mutant astrocytoma
+TCGA-TQ-A7RM,IDH-mutant astrocytoma
+TCGA-TQ-A7RN,Oligodendroglioma
+TCGA-TQ-A7RO,Oligodendroglioma
+TCGA-TQ-A7RP,IDH-wildtype glioblastoma
+TCGA-TQ-A7RQ,Oligodendroglioma
+TCGA-TQ-A7RR,IDH-mutant astrocytoma
+TCGA-TQ-A7RS,Oligodendroglioma
+TCGA-TQ-A7RU,Oligodendroglioma
+TCGA-TQ-A7RV,IDH-mutant astrocytoma
+TCGA-TQ-A7RW,IDH-mutant astrocytoma
+TCGA-TQ-A8XE,IDH-mutant astrocytoma
+TCGA-VM-A8C8,IDH-mutant astrocytoma
+TCGA-VM-A8C9,IDH-wildtype pediatric-like glioma
+TCGA-VM-A8CA,Oligodendroglioma
+TCGA-VM-A8CB,Oligodendroglioma
+TCGA-VM-A8CD,IDH-wildtype pediatric-like glioma
+TCGA-VM-A8CE,Oligodendroglioma
+TCGA-VM-A8CF,IDH-mutant astrocytoma
+TCGA-VM-A8CH,IDH-mutant astrocytoma
+TCGA-VV-A829,Oligodendroglioma
+TCGA-VV-A86M,IDH-mutant astrocytoma
+TCGA-VW-A7QS,Oligodendroglioma
+TCGA-VW-A8FI,IDH-wildtype glioblastoma
+TCGA-W9-A837,Oligodendroglioma
+TCGA-WH-A86K,IDH-mutant astrocytoma
+TCGA-WY-A858,IDH-mutant astrocytoma
+TCGA-WY-A859,IDH-mutant astrocytoma
+TCGA-WY-A85A,IDH-mutant astrocytoma
+TCGA-WY-A85B,IDH-mutant astrocytoma
+TCGA-WY-A85C,IDH-mutant astrocytoma
+TCGA-WY-A85D,IDH-mutant astrocytoma
+TCGA-WY-A85E,IDH-mutant astrocytoma
+TCGA-02-0001,Unknown
+TCGA-02-0003,IDH-wildtype glioblastoma
+TCGA-02-0006,Unknown
+TCGA-02-0007,Unknown
+TCGA-02-0009,Unknown
+TCGA-02-0010,Unknown
+TCGA-02-0011,Unknown
+TCGA-02-0014,Unknown
+TCGA-02-0015,Unknown
+TCGA-02-0016,Unknown
+TCGA-02-0021,Unknown
+TCGA-02-0023,Unknown
+TCGA-02-0024,Unknown
+TCGA-02-0025,Unknown
+TCGA-02-0026,Unknown
+TCGA-02-0027,Unknown
+TCGA-02-0028,Unknown
+TCGA-02-0033,IDH-wildtype glioblastoma
+TCGA-02-0034,Unknown
+TCGA-02-0037,Unknown
+TCGA-02-0038,Unknown
+TCGA-02-0039,Unknown
+TCGA-02-0043,Unknown
+TCGA-02-0046,Unknown
+TCGA-02-0047,IDH-wildtype glioblastoma
+TCGA-02-0048,Unknown
+TCGA-02-0051,Unknown
+TCGA-02-0052,Unknown
+TCGA-02-0054,Unknown
+TCGA-02-0055,IDH-wildtype glioblastoma
+TCGA-02-0057,Unknown
+TCGA-02-0058,Unknown
+TCGA-02-0059,Unknown
+TCGA-02-0060,Unknown
+TCGA-02-0064,Unknown
+TCGA-02-0068,Unknown
+TCGA-02-0069,Unknown
+TCGA-02-0070,Unknown
+TCGA-02-0071,Unknown
+TCGA-02-0074,Unknown
+TCGA-02-0075,Unknown
+TCGA-02-0079,Unknown
+TCGA-02-0080,Unknown
+TCGA-02-0083,Unknown
+TCGA-02-0084,Unknown
+TCGA-02-0085,Unknown
+TCGA-02-0086,Unknown
+TCGA-02-0087,Unknown
+TCGA-02-0089,Unknown
+TCGA-02-0099,Unknown
+TCGA-02-0102,Unknown
+TCGA-02-0104,Unknown
+TCGA-02-0106,Unknown
+TCGA-02-0107,Unknown
+TCGA-02-0111,Unknown
+TCGA-02-0113,Unknown
+TCGA-02-0114,Unknown
+TCGA-02-0115,Unknown
+TCGA-02-0116,Unknown
+TCGA-02-0258,Unknown
+TCGA-02-0260,Unknown
+TCGA-02-0266,Unknown
+TCGA-02-0269,Unknown
+TCGA-02-0271,Unknown
+TCGA-02-0281,Unknown
+TCGA-02-0285,Unknown
+TCGA-02-0289,Unknown
+TCGA-02-0290,Unknown
+TCGA-02-0317,Unknown
+TCGA-02-0321,Unknown
+TCGA-02-0324,Unknown
+TCGA-02-0325,Unknown
+TCGA-02-0326,Unknown
+TCGA-02-0330,Unknown
+TCGA-02-0332,Unknown
+TCGA-02-0333,Unknown
+TCGA-02-0337,Unknown
+TCGA-02-0338,Unknown
+TCGA-02-0339,Unknown
+TCGA-02-0422,Unknown
+TCGA-02-0430,Unknown
+TCGA-02-0432,Unknown
+TCGA-02-0440,Unknown
+TCGA-02-0446,Unknown
+TCGA-02-0451,Unknown
+TCGA-02-0456,Unknown
+TCGA-02-2466,Unknown
+TCGA-02-2470,IDH-wildtype glioblastoma
+TCGA-02-2483,IDH-mutant astrocytoma
+TCGA-02-2485,IDH-wildtype glioblastoma
+TCGA-02-2486,IDH-wildtype glioblastoma
+TCGA-06-0119,IDH-wildtype glioblastoma
+TCGA-06-0121,Unknown
+TCGA-06-0122,IDH-wildtype glioblastoma
+TCGA-06-0124,IDH-wildtype glioblastoma
+TCGA-06-0125,IDH-wildtype glioblastoma
+TCGA-06-0126,IDH-wildtype glioblastoma
+TCGA-06-0127,Unknown
+TCGA-06-0128,IDH-mutant astrocytoma
+TCGA-06-0129,IDH-mutant astrocytoma
+TCGA-06-0130,IDH-wildtype glioblastoma
+TCGA-06-0132,IDH-wildtype glioblastoma
+TCGA-06-0133,Unknown
+TCGA-06-0137,IDH-wildtype glioblastoma
+TCGA-06-0138,Unknown
+TCGA-06-0139,IDH-wildtype glioblastoma
+TCGA-06-0140,IDH-wildtype glioblastoma
+TCGA-06-0141,IDH-wildtype glioblastoma
+TCGA-06-0142,IDH-wildtype glioblastoma
+TCGA-06-0143,Unknown
+TCGA-06-0145,IDH-wildtype glioblastoma
+TCGA-06-0146,Unknown
+TCGA-06-0147,Unknown
+TCGA-06-0148,Unknown
+TCGA-06-0149,Unknown
+TCGA-06-0150,Unknown
+TCGA-06-0151,IDH-wildtype glioblastoma
+TCGA-06-0152,IDH-wildtype glioblastoma
+TCGA-06-0154,IDH-wildtype glioblastoma
+TCGA-06-0155,IDH-wildtype glioblastoma
+TCGA-06-0157,IDH-wildtype glioblastoma
+TCGA-06-0158,IDH-wildtype glioblastoma
+TCGA-06-0159,Unknown
+TCGA-06-0160,Unknown
+TCGA-06-0162,Unknown
+TCGA-06-0164,Unknown
+TCGA-06-0165,IDH-wildtype glioblastoma
+TCGA-06-0166,IDH-wildtype glioblastoma
+TCGA-06-0168,IDH-wildtype glioblastoma
+TCGA-06-0169,IDH-wildtype glioblastoma
+TCGA-06-0171,IDH-wildtype glioblastoma
+TCGA-06-0173,IDH-wildtype glioblastoma
+TCGA-06-0174,IDH-wildtype glioblastoma
+TCGA-06-0175,Unknown
+TCGA-06-0176,Unknown
+TCGA-06-0177,Unknown
+TCGA-06-0178,Unknown
+TCGA-06-0179,Unknown
+TCGA-06-0182,Unknown
+TCGA-06-0184,IDH-wildtype glioblastoma
+TCGA-06-0185,IDH-wildtype glioblastoma
+TCGA-06-0187,IDH-wildtype glioblastoma
+TCGA-06-0188,IDH-wildtype glioblastoma
+TCGA-06-0189,IDH-wildtype glioblastoma
+TCGA-06-0190,IDH-wildtype glioblastoma
+TCGA-06-0192,IDH-wildtype glioblastoma
+TCGA-06-0194,Unknown
+TCGA-06-0195,IDH-wildtype glioblastoma
+TCGA-06-0197,Unknown
+TCGA-06-0201,Unknown
+TCGA-06-0206,Unknown
+TCGA-06-0208,Unknown
+TCGA-06-0209,IDH-wildtype glioblastoma
+TCGA-06-0210,IDH-wildtype glioblastoma
+TCGA-06-0211,IDH-wildtype glioblastoma
+TCGA-06-0213,IDH-wildtype glioblastoma
+TCGA-06-0214,IDH-wildtype glioblastoma
+TCGA-06-0216,IDH-wildtype glioblastoma
+TCGA-06-0219,IDH-wildtype glioblastoma
+TCGA-06-0221,IDH-mutant astrocytoma
+TCGA-06-0237,IDH-wildtype glioblastoma
+TCGA-06-0238,IDH-wildtype glioblastoma
+TCGA-06-0240,IDH-wildtype glioblastoma
+TCGA-06-0241,IDH-wildtype glioblastoma
+TCGA-06-0394,Unknown
+TCGA-06-0397,Unknown
+TCGA-06-0402,Unknown
+TCGA-06-0409,Unknown
+TCGA-06-0410,Unknown
+TCGA-06-0412,Unknown
+TCGA-06-0413,Unknown
+TCGA-06-0414,Unknown
+TCGA-06-0644,IDH-wildtype glioblastoma
+TCGA-06-0645,IDH-wildtype glioblastoma
+TCGA-06-0646,IDH-wildtype glioblastoma
+TCGA-06-0648,IDH-wildtype glioblastoma
+TCGA-06-0649,IDH-wildtype glioblastoma
+TCGA-06-0650,IDH-wildtype glioblastoma
+TCGA-06-0686,IDH-wildtype glioblastoma
+TCGA-06-0743,IDH-wildtype glioblastoma
+TCGA-06-0744,IDH-wildtype glioblastoma
+TCGA-06-0745,IDH-wildtype glioblastoma
+TCGA-06-0747,IDH-wildtype glioblastoma
+TCGA-06-0749,IDH-wildtype glioblastoma
+TCGA-06-0750,IDH-wildtype glioblastoma
+TCGA-06-0875,IDH-wildtype glioblastoma
+TCGA-06-0876,IDH-wildtype glioblastoma
+TCGA-06-0877,IDH-wildtype glioblastoma
+TCGA-06-0878,IDH-wildtype glioblastoma
+TCGA-06-0879,IDH-wildtype glioblastoma
+TCGA-06-0881,IDH-wildtype glioblastoma
+TCGA-06-0882,IDH-wildtype glioblastoma
+TCGA-06-0939,IDH-wildtype glioblastoma
+TCGA-06-1084,Unknown
+TCGA-06-1086,Unknown
+TCGA-06-1087,Unknown
+TCGA-06-1800,Unknown
+TCGA-06-1801,Unknown
+TCGA-06-1802,Unknown
+TCGA-06-1804,IDH-wildtype glioblastoma
+TCGA-06-1805,Unknown
+TCGA-06-1806,IDH-wildtype glioblastoma
+TCGA-06-2557,IDH-wildtype glioblastoma
+TCGA-06-2558,IDH-wildtype glioblastoma
+TCGA-06-2559,IDH-wildtype glioblastoma
+TCGA-06-2561,IDH-wildtype glioblastoma
+TCGA-06-2562,IDH-wildtype glioblastoma
+TCGA-06-2563,IDH-wildtype glioblastoma
+TCGA-06-2564,IDH-wildtype glioblastoma
+TCGA-06-2565,IDH-wildtype glioblastoma
+TCGA-06-2566,Unknown
+TCGA-06-2567,IDH-wildtype glioblastoma
+TCGA-06-2569,IDH-wildtype glioblastoma
+TCGA-06-2570,IDH-mutant astrocytoma
+TCGA-06-5408,IDH-wildtype glioblastoma
+TCGA-06-5410,IDH-wildtype glioblastoma
+TCGA-06-5411,IDH-wildtype glioblastoma
+TCGA-06-5412,IDH-wildtype glioblastoma
+TCGA-06-5413,IDH-wildtype glioblastoma
+TCGA-06-5414,IDH-wildtype glioblastoma
+TCGA-06-5415,IDH-wildtype glioblastoma
+TCGA-06-5416,IDH-mutant astrocytoma
+TCGA-06-5418,IDH-wildtype glioblastoma
+TCGA-06-5856,IDH-wildtype glioblastoma
+TCGA-06-5858,IDH-wildtype glioblastoma
+TCGA-06-5859,IDH-wildtype glioblastoma
+TCGA-06-6388,IDH-wildtype glioblastoma
+TCGA-06-6389,IDH-mutant astrocytoma
+TCGA-06-6390,IDH-wildtype glioblastoma
+TCGA-06-6391,IDH-wildtype glioblastoma
+TCGA-06-6693,IDH-wildtype glioblastoma
+TCGA-06-6694,IDH-wildtype glioblastoma
+TCGA-06-6695,IDH-wildtype glioblastoma
+TCGA-06-6697,IDH-wildtype glioblastoma
+TCGA-06-6698,IDH-wildtype glioblastoma
+TCGA-06-6699,IDH-wildtype glioblastoma
+TCGA-06-6700,IDH-wildtype glioblastoma
+TCGA-06-6701,IDH-mutant astrocytoma
+TCGA-06-A5U0,IDH-wildtype glioblastoma
+TCGA-06-A5U1,IDH-wildtype glioblastoma
+TCGA-06-A6S0,IDH-wildtype glioblastoma
+TCGA-06-A6S1,IDH-wildtype glioblastoma
+TCGA-06-A7TK,IDH-wildtype glioblastoma
+TCGA-06-A7TL,IDH-mutant astrocytoma
+TCGA-08-0244,Unknown
+TCGA-08-0245,Unknown
+TCGA-08-0246,Unknown
+TCGA-08-0344,Unknown
+TCGA-08-0345,Unknown
+TCGA-08-0346,Unknown
+TCGA-08-0347,Unknown
+TCGA-08-0348,Unknown
+TCGA-08-0349,Unknown
+TCGA-08-0350,Unknown
+TCGA-08-0351,Unknown
+TCGA-08-0352,Unknown
+TCGA-08-0353,Unknown
+TCGA-08-0354,Unknown
+TCGA-08-0355,Unknown
+TCGA-08-0356,Unknown
+TCGA-08-0357,Unknown
+TCGA-08-0358,Unknown
+TCGA-08-0359,Unknown
+TCGA-08-0375,Unknown
+TCGA-08-0380,Unknown
+TCGA-08-0386,IDH-wildtype glioblastoma
+TCGA-08-0389,Unknown
+TCGA-08-0390,Unknown
+TCGA-08-0392,Unknown
+TCGA-08-0509,Unknown
+TCGA-08-0510,Unknown
+TCGA-08-0512,Unknown
+TCGA-08-0514,Unknown
+TCGA-08-0516,Unknown
+TCGA-08-0517,Unknown
+TCGA-08-0518,Unknown
+TCGA-08-0520,Unknown
+TCGA-08-0521,Unknown
+TCGA-08-0524,Unknown
+TCGA-08-0525,Unknown
+TCGA-08-0529,Unknown
+TCGA-08-0531,Unknown
+TCGA-12-0615,IDH-wildtype glioblastoma
+TCGA-12-0616,IDH-wildtype glioblastoma
+TCGA-12-0618,IDH-wildtype glioblastoma
+TCGA-12-0619,IDH-wildtype glioblastoma
+TCGA-12-0620,Unknown
+TCGA-12-0654,Unknown
+TCGA-12-0656,Unknown
+TCGA-12-0657,Unknown
+TCGA-12-0662,Unknown
+TCGA-12-0670,Unknown
+TCGA-12-0688,IDH-wildtype glioblastoma
+TCGA-12-0691,Unknown
+TCGA-12-0692,IDH-wildtype glioblastoma
+TCGA-12-0703,Unknown
+TCGA-12-0707,Unknown
+TCGA-12-0769,Unknown
+TCGA-12-0772,Unknown
+TCGA-12-0773,Unknown
+TCGA-12-0775,Unknown
+TCGA-12-0776,Unknown
+TCGA-12-0778,Unknown
+TCGA-12-0780,Unknown
+TCGA-12-0818,Unknown
+TCGA-12-0819,Unknown
+TCGA-12-0820,Unknown
+TCGA-12-0821,IDH-wildtype glioblastoma
+TCGA-12-0822,Unknown
+TCGA-12-0826,Unknown
+TCGA-12-0827,Unknown
+TCGA-12-0828,Unknown
+TCGA-12-0829,Unknown
+TCGA-12-1088,Unknown
+TCGA-12-1089,Unknown
+TCGA-12-1090,Unknown
+TCGA-12-1091,Unknown
+TCGA-12-1092,Unknown
+TCGA-12-1093,Unknown
+TCGA-12-1094,Unknown
+TCGA-12-1095,Unknown
+TCGA-12-1096,Unknown
+TCGA-12-1097,Unknown
+TCGA-12-1098,Unknown
+TCGA-12-1099,Unknown
+TCGA-12-1598,Unknown
+TCGA-12-1599,Unknown
+TCGA-12-1600,Unknown
+TCGA-12-1602,Unknown
+TCGA-12-3644,Unknown
+TCGA-12-3646,Unknown
+TCGA-12-3648,Unknown
+TCGA-12-3649,IDH-wildtype glioblastoma
+TCGA-12-3650,IDH-wildtype glioblastoma
+TCGA-12-3651,Unknown
+TCGA-12-3652,IDH-wildtype glioblastoma
+TCGA-12-3653,IDH-wildtype glioblastoma
+TCGA-12-5295,IDH-wildtype glioblastoma
+TCGA-12-5299,IDH-wildtype glioblastoma
+TCGA-12-5301,IDH-wildtype glioblastoma
+TCGA-14-0736,IDH-wildtype glioblastoma
+TCGA-14-0740,IDH-wildtype glioblastoma
+TCGA-14-0781,IDH-wildtype glioblastoma
+TCGA-14-0783,Unknown
+TCGA-14-0786,IDH-wildtype glioblastoma
+TCGA-14-0787,IDH-wildtype glioblastoma
+TCGA-14-0789,IDH-wildtype glioblastoma
+TCGA-14-0790,IDH-wildtype glioblastoma
+TCGA-14-0812,Unknown
+TCGA-14-0813,IDH-wildtype glioblastoma
+TCGA-14-0817,IDH-wildtype glioblastoma
+TCGA-14-0862,IDH-wildtype glioblastoma
+TCGA-14-0865,Unknown
+TCGA-14-0866,Unknown
+TCGA-14-0867,Unknown
+TCGA-14-0871,IDH-wildtype glioblastoma
+TCGA-14-1034,IDH-wildtype glioblastoma
+TCGA-14-1037,Unknown
+TCGA-14-1043,IDH-wildtype glioblastoma
+TCGA-14-1395,IDH-wildtype glioblastoma
+TCGA-14-1396,Unknown
+TCGA-14-1401,Unknown
+TCGA-14-1402,Unknown
+TCGA-14-1450,IDH-wildtype glioblastoma
+TCGA-14-1451,Unknown
+TCGA-14-1452,Unknown
+TCGA-14-1453,Unknown
+TCGA-14-1454,Unknown
+TCGA-14-1455,Unknown
+TCGA-14-1456,IDH-mutant astrocytoma
+TCGA-14-1458,Unknown
+TCGA-14-1459,Unknown
+TCGA-14-1794,Unknown
+TCGA-14-1795,Unknown
+TCGA-14-1821,Unknown
+TCGA-14-1823,IDH-wildtype glioblastoma
+TCGA-14-1825,IDH-wildtype glioblastoma
+TCGA-14-1827,Unknown
+TCGA-14-1829,IDH-wildtype glioblastoma
+TCGA-14-2554,IDH-wildtype glioblastoma
+TCGA-14-2555,Unknown
+TCGA-14-3477,Unknown
+TCGA-14-4157,IDH-mutant astrocytoma
+TCGA-15-0742,IDH-wildtype glioblastoma
+TCGA-15-1444,Unknown
+TCGA-15-1446,Unknown
+TCGA-15-1447,Unknown
+TCGA-15-1449,Unknown
+TCGA-16-0846,IDH-wildtype glioblastoma
+TCGA-16-0848,IDH-wildtype glioblastoma
+TCGA-16-0849,Unknown
+TCGA-16-0850,Unknown
+TCGA-16-0861,IDH-wildtype glioblastoma
+TCGA-16-1045,IDH-wildtype glioblastoma
+TCGA-16-1047,Unknown
+TCGA-16-1048,IDH-wildtype glioblastoma
+TCGA-16-1055,Unknown
+TCGA-16-1056,Unknown
+TCGA-16-1060,Unknown
+TCGA-16-1062,Unknown
+TCGA-16-1063,Unknown
+TCGA-16-1460,Unknown
+TCGA-19-0955,Unknown
+TCGA-19-0957,Unknown
+TCGA-19-0960,Unknown
+TCGA-19-0962,Unknown
+TCGA-19-0963,Unknown
+TCGA-19-0964,Unknown
+TCGA-19-1385,Unknown
+TCGA-19-1386,Unknown
+TCGA-19-1387,Unknown
+TCGA-19-1388,Unknown
+TCGA-19-1389,Unknown
+TCGA-19-1390,IDH-wildtype glioblastoma
+TCGA-19-1392,Unknown
+TCGA-19-1786,Unknown
+TCGA-19-1787,IDH-wildtype glioblastoma
+TCGA-19-1789,Unknown
+TCGA-19-1791,Unknown
+TCGA-19-2619,IDH-wildtype glioblastoma
+TCGA-19-2620,IDH-wildtype glioblastoma
+TCGA-19-2621,Unknown
+TCGA-19-2623,IDH-wildtype glioblastoma
+TCGA-19-2624,IDH-wildtype glioblastoma
+TCGA-19-2625,IDH-wildtype glioblastoma
+TCGA-19-2629,IDH-mutant astrocytoma
+TCGA-19-2631,IDH-wildtype glioblastoma
+TCGA-19-4065,IDH-wildtype glioblastoma
+TCGA-19-5947,IDH-wildtype glioblastoma
+TCGA-19-5950,IDH-wildtype glioblastoma
+TCGA-19-5951,IDH-wildtype glioblastoma
+TCGA-19-5952,IDH-wildtype glioblastoma
+TCGA-19-5953,IDH-wildtype glioblastoma
+TCGA-19-5954,IDH-wildtype glioblastoma
+TCGA-19-5955,IDH-wildtype glioblastoma
+TCGA-19-5956,IDH-wildtype glioblastoma
+TCGA-19-5958,IDH-wildtype glioblastoma
+TCGA-19-5959,IDH-wildtype glioblastoma
+TCGA-19-5960,IDH-wildtype glioblastoma
+TCGA-19-A60I,IDH-wildtype glioblastoma
+TCGA-19-A6J4,IDH-wildtype glioblastoma
+TCGA-19-A6J5,IDH-mutant astrocytoma
+TCGA-26-1438,Unknown
+TCGA-26-1439,IDH-wildtype glioblastoma
+TCGA-26-1440,Unknown
+TCGA-26-1442,IDH-mutant astrocytoma
+TCGA-26-1443,Unknown
+TCGA-26-1799,Unknown
+TCGA-26-5132,IDH-wildtype glioblastoma
+TCGA-26-5133,IDH-wildtype glioblastoma
+TCGA-26-5134,IDH-wildtype glioblastoma
+TCGA-26-5135,IDH-wildtype glioblastoma
+TCGA-26-5136,IDH-wildtype glioblastoma
+TCGA-26-5139,IDH-wildtype glioblastoma
+TCGA-26-6173,IDH-wildtype glioblastoma
+TCGA-26-6174,IDH-wildtype glioblastoma
+TCGA-26-A7UX,IDH-wildtype glioblastoma
+TCGA-27-1830,IDH-wildtype glioblastoma
+TCGA-27-1831,IDH-wildtype glioblastoma
+TCGA-27-1832,IDH-wildtype glioblastoma
+TCGA-27-1833,IDH-wildtype glioblastoma
+TCGA-27-1834,IDH-wildtype glioblastoma
+TCGA-27-1835,IDH-wildtype glioblastoma
+TCGA-27-1836,IDH-wildtype glioblastoma
+TCGA-27-1837,IDH-wildtype glioblastoma
+TCGA-27-1838,IDH-wildtype glioblastoma
+TCGA-27-2518,IDH-wildtype glioblastoma
+TCGA-27-2519,IDH-wildtype glioblastoma
+TCGA-27-2521,IDH-mutant astrocytoma
+TCGA-27-2523,IDH-wildtype glioblastoma
+TCGA-27-2524,IDH-wildtype glioblastoma
+TCGA-27-2526,IDH-wildtype glioblastoma
+TCGA-27-2527,IDH-wildtype glioblastoma
+TCGA-27-2528,IDH-wildtype glioblastoma
+TCGA-28-1746,Unknown
+TCGA-28-1747,IDH-wildtype glioblastoma
+TCGA-28-1749,Unknown
+TCGA-28-1750,Unknown
+TCGA-28-1751,Unknown
+TCGA-28-1752,Unknown
+TCGA-28-1753,IDH-wildtype glioblastoma
+TCGA-28-1755,Unknown
+TCGA-28-1756,Unknown
+TCGA-28-1757,Unknown
+TCGA-28-2501,IDH-wildtype glioblastoma
+TCGA-28-2502,IDH-wildtype glioblastoma
+TCGA-28-2506,Unknown
+TCGA-28-2509,IDH-wildtype glioblastoma
+TCGA-28-2510,IDH-wildtype glioblastoma
+TCGA-28-2513,IDH-wildtype glioblastoma
+TCGA-28-2514,IDH-wildtype glioblastoma
+TCGA-28-5204,IDH-wildtype glioblastoma
+TCGA-28-5207,IDH-wildtype glioblastoma
+TCGA-28-5208,IDH-wildtype glioblastoma
+TCGA-28-5209,IDH-wildtype glioblastoma
+TCGA-28-5211,IDH-wildtype glioblastoma
+TCGA-28-5213,IDH-wildtype glioblastoma
+TCGA-28-5214,IDH-wildtype glioblastoma
+TCGA-28-5215,IDH-wildtype glioblastoma
+TCGA-28-5216,IDH-wildtype glioblastoma
+TCGA-28-5218,IDH-wildtype glioblastoma
+TCGA-28-5219,IDH-wildtype glioblastoma
+TCGA-28-5220,IDH-wildtype glioblastoma
+TCGA-28-6450,IDH-wildtype glioblastoma
+TCGA-32-1970,IDH-wildtype glioblastoma
+TCGA-32-1973,Unknown
+TCGA-32-1976,Unknown
+TCGA-32-1977,IDH-wildtype glioblastoma
+TCGA-32-1978,Unknown
+TCGA-32-1979,IDH-wildtype glioblastoma
+TCGA-32-1980,IDH-wildtype glioblastoma
+TCGA-32-1982,IDH-wildtype glioblastoma
+TCGA-32-1986,IDH-wildtype glioblastoma
+TCGA-32-1987,Unknown
+TCGA-32-1991,IDH-wildtype glioblastoma
+TCGA-32-2491,IDH-wildtype glioblastoma
+TCGA-32-2494,IDH-wildtype glioblastoma
+TCGA-32-2495,IDH-wildtype glioblastoma
+TCGA-32-2615,IDH-wildtype glioblastoma
+TCGA-32-2616,IDH-wildtype glioblastoma
+TCGA-32-2632,IDH-wildtype glioblastoma
+TCGA-32-2634,IDH-wildtype glioblastoma
+TCGA-32-2638,IDH-wildtype glioblastoma
+TCGA-32-4208,IDH-mutant astrocytoma
+TCGA-32-4210,IDH-wildtype glioblastoma
+TCGA-32-4211,IDH-wildtype glioblastoma
+TCGA-32-4213,IDH-wildtype glioblastoma
+TCGA-32-4719,IDH-wildtype glioblastoma
+TCGA-32-5222,IDH-wildtype glioblastoma
+TCGA-41-2571,IDH-wildtype glioblastoma
+TCGA-41-2572,IDH-wildtype glioblastoma
+TCGA-41-2573,IDH-wildtype glioblastoma
+TCGA-41-2575,IDH-wildtype glioblastoma
+TCGA-41-3392,IDH-wildtype glioblastoma
+TCGA-41-3393,IDH-wildtype glioblastoma
+TCGA-41-3915,IDH-wildtype glioblastoma
+TCGA-41-4097,IDH-wildtype glioblastoma
+TCGA-41-5651,IDH-wildtype glioblastoma
+TCGA-41-6646,IDH-wildtype glioblastoma
+TCGA-4W-AA9R,IDH-wildtype glioblastoma
+TCGA-4W-AA9S,IDH-wildtype glioblastoma
+TCGA-4W-AA9T,IDH-wildtype glioblastoma
+TCGA-74-6573,IDH-wildtype glioblastoma
+TCGA-74-6575,IDH-wildtype glioblastoma
+TCGA-74-6577,IDH-wildtype glioblastoma
+TCGA-74-6578,IDH-wildtype glioblastoma
+TCGA-74-6581,IDH-wildtype glioblastoma
+TCGA-74-6584,IDH-wildtype glioblastoma
+TCGA-76-4925,IDH-wildtype glioblastoma
+TCGA-76-4926,IDH-wildtype glioblastoma
+TCGA-76-4928,IDH-wildtype glioblastoma
+TCGA-76-4929,IDH-wildtype glioblastoma
+TCGA-76-4931,IDH-wildtype glioblastoma
+TCGA-76-4934,IDH-wildtype glioblastoma
+TCGA-76-4935,IDH-wildtype glioblastoma
+TCGA-76-6191,IDH-wildtype glioblastoma
+TCGA-76-6192,IDH-wildtype glioblastoma
+TCGA-76-6193,IDH-wildtype glioblastoma
+TCGA-76-6280,IDH-wildtype glioblastoma
+TCGA-76-6282,IDH-wildtype glioblastoma
+TCGA-76-6283,IDH-wildtype glioblastoma
+TCGA-76-6285,IDH-wildtype glioblastoma
+TCGA-76-6286,IDH-wildtype glioblastoma
+TCGA-76-6656,IDH-wildtype glioblastoma
+TCGA-76-6657,IDH-wildtype glioblastoma
+TCGA-76-6660,IDH-wildtype glioblastoma
+TCGA-76-6661,IDH-wildtype glioblastoma
+TCGA-76-6662,IDH-wildtype glioblastoma
+TCGA-76-6663,IDH-wildtype glioblastoma
+TCGA-76-6664,IDH-wildtype glioblastoma
+TCGA-81-5910,IDH-wildtype glioblastoma
+TCGA-81-5911,IDH-wildtype glioblastoma
+TCGA-87-5896,IDH-wildtype glioblastoma
+TCGA-OX-A56R,IDH-wildtype glioblastoma
+TCGA-RR-A6KA,IDH-wildtype glioblastoma
+TCGA-RR-A6KB,IDH-wildtype glioblastoma
+TCGA-RR-A6KC,IDH-wildtype glioblastoma
